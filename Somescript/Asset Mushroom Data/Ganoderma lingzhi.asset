@@ -1,0 +1,366 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51f3867395fd1cf43897802bdd56f4fb, type: 3}
+  m_Name: Ganoderma lingzhi
+  m_EditorClassIdentifier: 
+  itemID: 004
+  itemTag: M
+  icon: {fileID: 21300000, guid: 1111110f02316154a98ed32c6c7553ac, type: 3}
+  mushroom3D: {fileID: 2777826407149780908, guid: 790a6e24ecf3bfc4b9e4a78718e57e97,
+    type: 3}
+  clip: {fileID: 8300000, guid: e950eb0fb2784bc4499b78bd135585f0, type: 3}
+  source: {fileID: 0}
+  mushroomName: Ganoderma lingzhi
+  marketName: Lingzhi/Reishi
+  position: {x: 155.012, y: 48.397, z: 73.873}
+  rotation: {x: -90.00001, y: 0, z: -68.521}
+  encyAll:
+  - title: 'Market name: Lingzhi/Reishi'
+    description: "Lingzhi,\_Ganoderma lingzhi, also known as\_reishi, is a\_polypore\_fungus\_(\"bracket
+      fungus\") belonging to the\_genus\_Ganoderma.\r\n\r\nIts red-varnished, kidney-shaped\_cap\_and
+      peripherally inserted\_stem\_gives it a distinct\_fan-like appearance. When
+      fresh, the lingzhi is soft, cork-like, and flat. It lacks\_gills\_on its underside,
+      and instead releases its\_spores\_via fine pores. Depending on the age, the
+      pores on its underside may be white or brown.[1]\r\nThe lingzhi mushroom is
+      used in\_traditional Chinese medicine.[2][3]\_There is insufficient evidence
+      that consuming lingzhi mushrooms or their\_extracts\_has an effect on\_cancer,\_metabolic
+      diseases\_or\_cardiovascular diseases.[4][5][6]\r\nIn nature, it grows at the
+      base and stumps of\_deciduous trees, especially that of the\_maple. Only two
+      or three out of 10,000 such aged trees will have lingzhi growth, and therefore
+      its wild form is rare.[citation needed]\_Lingzhi may be cultivated on\_hardwood\_logs,\_sawdust\_or\_woodchips"
+    illust_0: {fileID: 21300000, guid: 8e6b4cd4f9e76144cb1efb1d5263004f, type: 3}
+    illust_1: {fileID: 21300000, guid: 0cf42b6ccf907aa45ad9bf778c6db9ef, type: 3}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Taxonomy and ecology
+    description: "Lingzhi, also known as\_reishi, is the ancient \"mushroom of immortality\",
+      revered for over 2,000 years. Uncertainty exists about which\_Ganoderma\_species
+      was most widely utilized as lingzhi mushroom in ancient times, and likely a
+      few different common species were considered interchangeable. However, in the
+      16th century Chinese herbal compendium, the\_Bencao Gangmu\_(1578), a number
+      of different lingzhi-like mushrooms were used for different purposes and defined
+      by color. No exact current species can be attached to these ancient lingzhi
+      for certain, but according to Dai et al. (2017),[7]\_as well as other researchers
+      and based on molecular work, red reishi is most likely to be\_Ganoderma lingzhi\_(Sheng
+      H. Wu, Y. Cao & Y.C. Dai, 2012). This is the species that is most widely found
+      in Chinese herb shops today, and the fruiting bodies are widely cultivated
+      in China and shipped to many other countries. About 7-10 other\_Ganoderma\_species
+      are also sold in some shops, but have different Chinese and Latin names and
+      are considered different in their activity and functions. The differences are
+      based on concentrations of triterpenes such as ganoderic acid and its derivatives
+      which vary widely among species. Research on the genus is on-going, but a number
+      of recent phylogentic analyses have been published in the last number of years.\_[8]
+      \r\n\r\n<b>Nomenclature</b>\r\nPetter Adolf Karsten\_named the genus\_Ganoderma\_in
+      1881.[9]\_English botanist\_William Curtis\_gave the fungus its first binomial
+      name,\_Boletus lucidus, in 1781.[10]\_The lingzhi's\_botanical names\_have\_Greek
+      and Latin roots.\_Ganoderma\_derives from the\_Greek\_ganos\_(\u03B3\u03B1\u03BD\u03BF\u03C2;
+      \"brightness\"), and\_derma\_(\u03B4\u03B5\u03C1\u03BC\u03B1; \"skin; together;
+      shining skin\").[11]\_The\_specific epithet,\_lingzhi,\_comes from\_Chinese,
+      meaning \"divine mushroom.\"\r\nWith the advent of genome sequencing, the genus\_Ganoderma\_has
+      undergone taxonomic reclassification. Prior to genetic analyses of fungi, classification
+      was done according to morphological characteristics such as size and color.
+      The internal transcribed spacer region of the Ganoderma genome is considered
+      to be a standard barcode marker.[12]\r\n\n<b>Varieties</b>\r\nIt was once thought
+      that\_Ganoderma lingzhi\_generally occurred in two growth forms: a large,\_sessile,
+      specimen with a small or nonexistent stalk, found in North America, and a smaller
+      specimen with a long, narrow stalk found mainly in the tropics. However, recent
+      molecular evidence has identified the former, stalkless, form as a distinct
+      species called\_G. sessile, a name given to North American specimens by William
+      Alfonso Murrill in 1902.[8][13]\r\nEnvironmental conditions play a substantial
+      role in the lingzhi's manifest morphological characteristics. For example,
+      elevated\_carbon dioxide\_levels result in stem\_elongation\_in lingzhi. Other
+      formations include antlers without a cap, which may also be related to carbon
+      dioxide levels. The three main factors that influence fruit body development
+      morphology are light, temperature, and humidity. While water and air quality
+      play a role in fruit body development morphology, they do so to a lesser degree.[14]\r\n\n<b>Habitat</b>\r\nGanoderma
+      lingzhi\_is found in Asia growing as a\_parasite\_or\_saprotroph\_on a variety
+      of trees.[15]\_Ganoderma curtisii\_and\_Ganoderma ravenelii\_are the closest
+      relatives of the lingzhi mushroom in North America.[16]\r\nIn the wild, lingzhi
+      grows at the base and stumps of deciduous trees, especially that of the maple.[17]\_Only
+      two or three out of 10,000 such aged trees will have lingzhi growth, and therefore
+      it is extremely rare in its natural form.[citation needed]\_Today, lingzhi
+      is effectively cultivated on hardwood logs or sawdust/woodchips.[18]\r\n\r\n\r\n"
+    illust_0: {fileID: 21300000, guid: 34c08b43cc246e941b9c6b9e3966ce79, type: 3}
+    illust_1: {fileID: 21300000, guid: 6eaedb3b46a174641a84bedf57f96f73, type: 3}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'History '
+    description: "The word\_lingzhi\_(\u9748\u829D) was first recorded in a\_fu\_(\u8CE6;
+      \"rhapsody; prose-poem\") by the\_Han dynasty\_polymath\_Zhang Heng\_(CE) (Common
+      Era) 78\u2013139). His\_Xijing fu\_(\u897F\u4EAC\u8CE6) (Western Metropolis
+      Rhapsody) contains a description of the 104 BCE\_Jianzhang Palace\_of\_Emperor
+      Wu of Han\_that parallels\_lingzhi\_with\_shijun\_(\u77F3\u83CC; \"rock mushroom\"):
+      \"Raising huge breakers, lifting waves, That drenched the stone mushrooms on
+      the high bank, And soaked the magic fungus on vermeil boughs.\"[19]\_The commentary
+      by\_Xue Zong\_(d. 237) notes that these fungi were eaten as drugs of immortality.\r\nThe\_Shennong
+      bencao jing\_(Divine Farmer's Classic of Pharmaceutics) of c.200\u2013250 CE,
+      classifies\_zhi\_into six color categories, each of which is believed to benefit
+      the\_qi, or \"life force\", in a different part of the body:\_qingzhi\_(\u9752\u829D;
+      \"Green Mushroom\") for the liver,\_chizhi\_(\u8D64\u829D; \"Red Mushroom\")
+      for the heart,\_huangzhi\_(\u9EC3\u829D; \"Yellow Mushroom\") for the spleen,\_baizhi\_(\u767D\u829D;
+      \"White Mushroom\") for the lungs,\_heizhi\_(\u9ED1\u829D; \"Black Mushroom\")
+      for the kidneys, and\_zizhi\_(\u7D2B\u829D; \"Purple Mushroom\") for the Essence.
+      Commentators identify the red\_chizhi, or\_danzhi\_(\u4E39\u829D; \"cinnabar
+      mushroom\"), as the\_lingzhi.\r\nChi Zhi\_(Ganoderma rubra) is bitter and balanced.
+      It mainly treats binding in the chest, boosts the heart qi, supplements the
+      center, sharpens the wits, and [causes people] not to forget [i.e., improves
+      the memory]. Protracted taking may make the body light, prevent senility, and
+      prolong life so as to make one an immortal. Its other name is\_Dan Zhi\_(Cinnabar
+      Ganoderma). It grows in mountains and valleys.[20][21] \r\n\r\nChinese texts
+      have recorded medicinal uses of\_lingzhi\_for more than 2,000 years, a few
+      sources erroneously claim its use can be traced back more than 4,000 years.[22]\r\nThe
+      (1596)\_Bencao Gangmu\_(Compendium of Materia Medica) has a\_Zhi\_(\u829D)
+      category that includes six types of\_zhi\_(calling the green, red, yellow,
+      white, black, and purple mushrooms of the\_Shennong bencao jing\_the\_liuzhi\_(\u516D\u829D;
+      \"six mushrooms\") and sixteen other fungi, mushrooms, and lichens, including\_mu'er\_(\u6728\u8033;
+      \"wood ear\"; \"cloud ear fungus\",\_Auricularia auricula-judae). The author\_Li
+      Shizhen\_classified these six differently colored\_zhi\_as\_xiancao\_(\u4ED9\u8349;
+      \"immortality herbs\"), and described the effects of\_chizhi\_(\"red mushroom\"):
+      {{Quote|text=It positively affects the life-energy, or\_Qi\_of the heart, repairing
+      the chest area and benefiting those with a knotted and tight chest. Taken over
+      a long period of time, the agility of the body will not cease, and the years
+      are lengthened to those of the Immortal Fairies.[23][24]\r\nStuart and Smith's
+      classic study of\_Chinese herbology\_describes the\_zhi.\r\n\u829D (Chih) is
+      defined in the classics as the plant of immortality, and it is therefore always
+      considered to be a felicitous one. It is said to absorb the earthy vapors and
+      to leave a heavenly atmosphere. For this reason, it is called \u9748\u829D
+      (Ling-chih.) It is large and of a branched form, and probably represents\_Clavaria\_or\_Sparassis.
+      Its form is likened to that of coral.[25]\r\nThe\_Bencao Gangmu\_does not list\_lingzhi\_as
+      a variety of\_zhi, but as an alternate name for the\_shi'er\_(\u77F3\u8033;
+      \"stone ear\",\_Umbilicaria esculenta) lichen. According to Stuart and Smith,\r\n[The
+      \u77F3\u8033 Shih-erh is] edible, and has all of the good qualities of the
+      \u829D (Chih), it is also being used in the treatment of\_gravel, and said
+      to benefit virility. It is specially used in hemorrhage from the bowels and
+      prolapse of the rectum. While the name of this would indicate that it was one
+      of the\_Auriculariales, the fact that the name \u9748\u829D (Ling-chih) is
+      also given to it might place it among the\_Clavariaceae.[25]\r\nIn\_Chinese
+      art, the\_lingzhi\_symbolizes great health and longevity, as depicted in the
+      imperial\_Forbidden City\_and\_Summer Palace.[26]\_It was a\_talisman\_for
+      luck in the traditional\_culture of China, and the goddess of healing\_Guanyin\_is
+      sometimes depicted holding a lingzhi mushroom.[24]"
+    illust_0: {fileID: 21300000, guid: 38a78163e55d9fd44a948c1a4de4f738, type: 3}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'Regional names '
+    description: "Chinese\r\nThe\_Old Chinese\_name for lingzhi\_\u9748\u829D\_was
+      first recorded during the\_Han dynasty\_(206 BC \u2013 9 AD). In the\_Chinese
+      language,\_l\xEDngzh\u012B\_(\u7075\u829D) is a compound. It comprises\_l\xEDng\_(\u7075);
+      \"spirit, spiritual; soul; miraculous; sacred; divine; mysterious; efficacious;
+      effective)\" as, for example, in the name of the\_Lingyan Temple\_in\_Jinan,
+      and\_zh\u012B\_(\u829D); \"(traditional) plant of longevity; fungus; seed;
+      branch; mushroom; excrescence\").\_Fabrizio Pregadio\_notes, \"The term\_zhi,
+      which has no equivalent in Western languages, refers to a variety of supermundane
+      substances often described as plants, fungi, or 'excrescences'.\"[27]\_Zhi\_occurs
+      in other Chinese plant names, such as\_zh\u012Bm\xE1\_(\u829D\u9EBB; \"sesame\"
+      or \"seed\"), and was anciently used a\_phonetic loan character\_for\_zh\u01D0\_(\u82B7;
+      \"Angelica\_iris\"). Chinese differentiates\_Ganoderma\_species into\_ch\xECzh\u012B\_(\u8D64\u829D;
+      \"red mushroom\")\_G. lingzhi, and\_z\u01D0zh\u012B\_(\u7D2B\u829D; \"purple
+      mushroom\")\_Ganoderma sinense.\r\nLingzhi has several\_synonyms. Of these,\_ru\xECc\u01CEo\_(\u745E\u8349;
+      \"auspicious plant\") (ru\xEC\_\u745E; \"auspicious; felicitous omen\" with
+      the suffix\_c\u01CEo\_\u8349; \"plant; herb\") is the oldest; the\_Erya\_dictionary
+      (c. 3rd century BCE) defines\_xi\xFA\_\u82EC, interpreted as a\_miscopy\_of\_j\u016Bn\_(\u83CC;
+      \"mushroom\") as\_zh\u012B\_(\u829D; \"mushroom\"), and the commentary of\_Guo
+      Pu\_(276\u2013324) says, \"The [zhi] flowers three times in one year. It is
+      a [ruicao] felicitous plant.\"[28]\_Other Chinese names for\_Ganoderma\_include\_ru\xECzh\u012B\_(\u745E\u829D;
+      \"auspicious mushroom\"),\_sh\xE9nzh\u012B\_(\u795E\u829D; \"divine mushroom\",
+      with\_shen; \"spirit; god' supernatural; divine\"),\_m\xF9l\xEDngzh\u012B\_(\u6728\u7075\u829D)
+      (with \"tree; wood\"),\_xi\u0101nc\u01CEo\_(\u4ED9\u8349; \"immortality plant\",
+      with\_xian; \"(Daoism) transcendent; immortal; wizard\"), and\_l\xEDngzh\u012Bc\u01CEo\_(\u7075\u829D\u8349)
+      or\_zh\u012Bc\u01CEo\_(\u829D\u8349; \"mushroom plant\").\r\nSince both Chinese\_ling\_and\_zhi\_have
+      multiple meanings,\_lingzhi\_has diverse English translations. Renditions include
+      \"[zhi] possessed of soul power\",[29]\_\"Herb of Spiritual Potency\" or \"Mushroom
+      of Immortality\",[1]\_\"Numinous Mushroom\",[27]\_\"divine mushroom\",[30]\_\"divine
+      fungus\",[31]\_\"Magic Fungus\",[19]\_and \"Marvelous Fungus\".[32]\r\nEnglish\r\nIn
+      English,\_lingzhi\_or\_ling chih\_(sometimes spelled \"ling chi\", using the
+      French\_EFEO Chinese transcription) is a\_Chinese loanword. It is also commonly
+      referred to as \"reishi\", which is loaned from Japanese.[33]\r\nThe\_Oxford
+      English Dictionary\_(OED) gives the definition, \"The fungus\_Ganoderma lucidum\_(actually\_Ganoderma
+      lingzhi, see\_Ganoderma lucidum\_for details], believed in China to confer
+      longevity and used as a symbol of this on Chinese ceramic ware.\",[34]\_and
+      identifies the\_etymology\_of the word as Chinese:\_l\xEDng, \"divine\" +\_zh\u012B,
+      \"fungus\". According to the\_OED, the earliest recorded usage of the\_Wade\u2013Giles\_romanization\_ling
+      chih\_is 1904,[35]\_and of the\_Pinyin\_lingzhi\_is 1980.\r\nIn addition to
+      the transliterated loanwords, English names include \"glossy ganoderma\" and
+      \"shiny polyporus\".[36]\r\nCoffee with lingzhi extract\r\nJapanese\r\nThe\_Japanese\_word\_reishi\_(\u970A\u829D)
+      is a\_Sino-Japanese\_loanword deriving from the Chinese\_l\xEDngzh\u012B\_(\u7075\u829D;\_\u9748\u829D).
+      Its modern Japanese\_kanji,\_\u970A, is the\_shinjitai\_(\"new character form\")
+      of the\_ky\u016Bjitai\_(\"old character form\"),\_\u9748. Synonyms for\_reishi\_are
+      divided between Sino-Japanese borrowings and native Japanese coinages. Sinitic
+      loanwords include literary terms such as\_zuis\u014D\_(\u745E\u8349, from\_ru\xECc\u01CEo;
+      \"auspicious plant\") and\_sens\u014D\_(\u4ED9\u8349, from\_xi\u0101nc\u01CEo;
+      \"immortality plant\"). The\_Japanese writing system\_uses\_shi\_or\_shiba\_(\u829D)
+      for \"grass; lawn; turf\", and\_take\_or\_kinoko\_(\u8338) for \"mushroom\"
+      (e.g.,\_shiitake). A common native Japanese name is\_mannentake\_(\u4E07\u5E74\u8338;
+      \"10,000-year mushroom\"). Other Japanese terms for\_reishi\_include\_kadodetake\_(\u9580\u51FA\u8338;
+      \"departure mushroom\"),\_hijiridake\_(\u8056\u8338; \"sage mushroom\"), and\_magoshakushi\_(\u5B6B\u6753\u5B50;
+      \"grandchild ladle\").\r\nKorean\r\nThe\_Korean\_name,\_yeongji\_(\uC601\uC9C0;\_\u9748\u829D)
+      is also borrowed from, so a\_cognate\_with, the Chinese word\_l\xEDngzh\u012B\_(\u7075\u829D;\_\u9748\u829D).
+      It is often called\_yeongjibeoseot\_(\uC601\uC9C0\uBC84\uC12F; \"yeongji\_mushroom\")
+      in Korean, with the addition of the native word\_beoseot\_(\uBC84\uC12F) meaning
+      \"mushroom\". Other common names include\_bullocho\_(\uBD88\uB85C\uCD08,\_\u4E0D\u8001\u8349;
+      \"elixir grass\") and\_jicho\_(\uC9C0\uCD08;\_\u829D\u8349). According to color,\_yeongji\_mushrooms
+      can be classified as\_jeokji\_(\uC801\uC9C0;\_\u8D64\u829D) for \"red\",\_jaji\_(\uC790\uC9C0;\_\u7D2B\u829D)
+      for \"purple\",\_heukji\_(\uD751\uC9C0;\_\u9ED1\u829D) for \"black\",\_cheongji\_(\uCCAD\uC9C0;\_\u9751\u829D)
+      for \"blue\" or \"green\",\_baekji\_(\uBC31\uC9C0;\_\u767D\u829D) for \"white\",
+      and\_hwangji\_(\uD669\uC9C0;\_\u9EC3\u829D) for \"yellow\".\r\nThai\r\nThe\_Thai\_word\_het
+      lin chue\_(\u0E40\u0E2B\u0E47\u0E14\u0E2B\u0E25\u0E34\u0E19\u0E08\u0E37\u0E2D)
+      is a compound of the native word\_het\_(\u0E40\u0E2B\u0E47\u0E14) meaning \"mushroom\"
+      and the loanword\_lin chue\_(\u0E2B\u0E25\u0E34\u0E19\u0E08\u0E37\u0E2D) from
+      the Chinese\_l\xEDngzh\u012B\_(\u7075\u829D;\_\u9748\u829D).\r\nVietnamese\r\nThe\_Vietnamese
+      language\_word\_linh chi\_is a loanword from Chinese. It is often used with\_n\u1EA5m,
+      the Vietnamese word for \"mushroom\", thus\_n\u1EA5m linh chi\_is the equivalent
+      of \"lingzhi mushroom\"."
+    illust_0: {fileID: 21300000, guid: 8ced2cdb82e3b1041b3f45f355acc39d, type: 3}
+    illust_1: {fileID: 21300000, guid: 1a1c4c895e79ae14a965d9c3121ded42, type: 3}
+    illust_2: {fileID: 21300000, guid: d6efed746f26d1e4ab9f7900ff0b5ace, type: 3}
+    illust_3: {fileID: 0}
+  - title: Uses
+    description: "Clinical research and phytochemistry \r\nGanoderma lucidum\_contains
+      diverse\_phytochemicals, including\_triterpenes\_(ganoderic acids), which have
+      a molecular structure similar to that of\_steroid\_hormones.[37]\_It also contains
+      phytochemicals found in fungal materials, including\_polysaccharides\_(such
+      as\_beta-glucan),\_coumarin,[38]\_mannitol, and\_alkaloids.[37]\_Sterols\_isolated
+      from the mushroom include\_ganoderol,\_ganoderenic acid,\_ganoderiol,\_ganodermanontriol,\_lucidadiol,
+      and\_ganodermadiol.[37]\r\nA 2015\_Cochrane database\_review found insufficient
+      evidence to justify the use of\_G.\_lucidum\_as a\_first-line\_cancer treatment.[4][5]\_It
+      stated that\_G.\_lucidum\_may have \"benefit as an alternative adjunct to conventional
+      treatment in consideration of its potential of enhancing tumour response and
+      stimulating host immunity.\"[5]\_Existing studies do not support the use of\_G.\_lucidum\_for
+      treatment of\_risk factors\_of\_cardiovascular disease\_in people with\_type
+      2 diabetes mellitus.[6]\r\nFolk medicine\r\nBecause of its bitter taste,[39]\_lingzhi
+      is traditionally prepared as a hot water extract product for use in\_folk medicine.[26]\_Thinly
+      sliced or pulverized lingzhi (either fresh or dried) is added to boiling water
+      which is then reduced to a simmer, covered, and left for 2 hours.[40]\_The
+      resulting liquid is dark and fairly bitter in taste. The red lingzhi is often
+      more bitter than the black. The process is sometimes repeated to increase the
+      concentration. Alternatively, it can be used as an ingredient in a formula\_decoction,
+      or used to make an extract (in liquid, capsule, or powder form).[41]\r\n"
+    illust_0: {fileID: 21300000, guid: 6a63e3defd921b74c8cc8ec1009a4e1b, type: 3}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Other uses
+    description: "Lingzhi is commercially manufactured and sold. Since the early
+      1970s, most lingzhi is cultivated. Lingzhi can grow on substrates such as sawdust,
+      grain, and wood logs. After formation of the fruiting body, lingzhi is most
+      commonly harvested, dried, ground, and processed into tablets or capsules to
+      be directly ingested or made into tea or soup. Other lingzhi products include
+      processed fungal mycelia or spores.[40]\_Lingzhi is also used to create\_mycelium\_bricks,\_mycelium
+      furniture, and leather-like products.[42] "
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: References
+    description: "1.Arora, David (1986).\_Mushrooms demystified: a comprehensive
+      guide to the fleshy fungi\_(2nd\_ed.).\_Ten Speed Press.\_ISBN\_978-0-89815-169-5.\r\n2.^\_Cao,
+      Yun; Wu, Sheng-Hua; Dai, Yu-Cheng (2012). \"Species clarification of the prize
+      medicinal Ganoderma mushroom 'Lingzhi'\".\_Fungal Diversity.\_56\_(1): 49\u201362.\_doi:10.1007/s13225-012-0178-5.\r\n3.^\_Kenneth,
+      Jones (1990).\_Reishi: Ancient Herb for Modern Times. Sylvan Press. p.\_6.\r\n4.^\_a\_b\_\"Reishi
+      mushroom\". Drugs.com. 12 December 2019. Retrieved\_4 March\_2020.\r\n5.^\_a\_b\_c\_Jin,
+      Xingzhong; Ruiz Beguerie, Julieta; Sze, Daniel Man-yuen; Chan, Godfrey C.F.
+      (2015).\_\"Ganoderma lucidum\u2002(Reishi mushroom) for cancer treatment\".\_The
+      Cochrane Database of Systematic Reviews.\_4: CD007731.\_doi:10.1002/14651858.CD007731.pub3.\_PMC\_6353236.\_PMID\_27045603.\r\n6.^\_a\_b\_Klupp,
+      Nerida L.; Chang, Dennis; Hawke, Fiona; Kiat, Hosen; Cao, Huijuan; Grant, Suzanne
+      J.; Bensoussan, Alan (2015).\_\"Ganoderma lucidum\u2002mushroom for the treatment
+      of cardiovascular risk factors\".\_The Cochrane Database of Systematic Reviews\_(2):
+      CD007259.\_doi:10.1002/14651858.CD007259.pub2.\_PMC\_6486141.\_PMID\_25686270.\r\n7.^\_Dai,
+      Y.-C. (2017). \"Ganoderma lingzhi (Polyporales, Basidiomycota): the scientific
+      binomial for the widely cultivated medicinal fungus Lingzhi\".\_Mycological
+      Progress.\_16(11\u201312): 1051\u20131055.\_doi:10.1007/s11557-017-1347-4.\r\n8.^\_a\_b\_Zhou,
+      Li-Wei; Cao, Yun; Wu, Sheng-Hua; Vlas\xE1k, Josef; Li, De-Wei; Li, Meng-Jie;
+      Dai, Yu-Cheng (2015). \"Global diversity of the\_Ganoderma lucidum\_complex
+      (Ganodermataceae, Polyporales) inferred from morphology and multilocus phylogeny\".\_Phytochemistry.\_114:
+      7\u201315.\_doi:10.1016/j.phytochem.2014.09.023.\_PMID\_25453909.\r\n9.^\_Karsten,
+      PA. (1881). \"Enumeratio Boletinearum et Polyporearum Fennicarum, systemate
+      novo dispositarum\".\_Revue Mycologique, Toulouse\_(in Latin).\_3\_(9): 16\u201319.\r\n10.^\_Steyaert,
+      R. L. (1961).\_\"Note on the nomenclature of fungi and, incidentally, ofGanoderma
+      lucidum\"\_(PDF).\_Taxon.\_10\_(8): 251\u2013252.\_doi:10.2307/1216350.\_JSTOR\_1216350.\r\n11.^\_Liddell,
+      Henry George;\_Scott, Robert\_(1980).\_A Greek-English Lexicon\_(Abridged\_ed.).
+      United Kingdom:\_Oxford University Press.\_ISBN\_978-0-19-910207-5.\r\n12.^\_Pawlik,
+      Anna; Janusz, Grzegorz; D\u0119bska, Iwona; Siwulski, Marek; Fr\u0105c, Magdalena;
+      Rogalski, Jerzy (2015).\_\"Genetic and Metabolic Intraspecific Biodiversity
+      ofGanoderma lucidum\".\_BioMed Research International.\_2015: 1\u201313.\_doi:10.1155/2015/726149.\_PMC\_4359883.\_PMID\_25815332.\r\n13.^\_\"Ganoderma
+      sessile\".\_MycoBank.\_International Mycological Association.\r\n14.^\_Yajima,
+      Yuka; Miyazaki, Minoru; Okita, Noriyasu; Hoshino, Tamotsu (2013). \"Production
+      of Ginkgo Leaf\u2212Shaped Basidiocarps of the Lingzhi or Reishi Medicinal
+      Mushroom\_Ganoderma lucidum\_(Higher Basidiomycetes), Containing High Levels
+      of \u03B1- and \u03B2-D-Glucan and Ganoderic Acid A\".\_International Journal
+      of Medicinal Mushrooms.\_15\_(2): 175\u2013182.\_doi:10.1615/IntJMedMushr.v15.i2.60.\r\n15.^\_Loyd
+      AL, Richter BS, Jusino MA, et al. Identifying the \"Mushroom of Immortality\":
+      Assessing the Ganoderma Species Composition in Commercial Reishi Products.
+      Front. Microbiol. 2018;9:1557. Published 2018 Jul 16. doi:10.3389/fmicb.2018.01557\r\n16.^\_Loyd
+      AL, Barnes CW, Held BW, Schink MJ, Smith ME, Smith JA, et al. (2018) Elucidating
+      \"lucidum\": Distinguishing the diverse laccate Ganoderma species of the United
+      States. PLoS ONE 13(7): e0199738.\_https://doi.org/10.1371/journal.pone.0199738\r\n17.^\_National
+      Audubon Society (1993).\_Field Guide to Mushrooms.\r\n18.^\_Veena, S. S.; Pandey,
+      Meera (2011). \"Paddy Straw as a Substrate for the Cultivation of Lingzhi or
+      Reishi Medicinal Mushroom,\_Ganoderma lucidum\_(W.Curt. :Fr.) P. Karst. in
+      India\".\_International Journal of Medicinal Mushrooms.\_13\_(4): 397\u2013400.\_doi:10.1615/intjmedmushr.v13.i4.100.\_PMID\_2164770.\r\n19.^\_a\_b\_Knechtges,
+      David R. (1996).\_Wen Xuan or Selections of Refined Literature.\_3.\_Princeton
+      University Press. pp.\_201, 211.\_ISBN\_9780691021263.\r\n20.^\_\"\u8349\u4E0A\u54C1\".\_\u795E\u8FB2\u672C\u8349\u7D93.\_\u8D64\u829D\u3002
+      \u82E6, \u5E73, \u7121\u6BD2\u3002\u80F8\u4E2D\u7D50, \u76CA\u5FC3\u6C23, \u88DC\u4E2D,
+      \u589E\u667A\u6167, \u4E0D\u5FD8\u3002\u4E45\u98DF, \u8F15\u8EAB\u4E0D\u8001,
+      \u5EF6\u5E74\u795E\u4ED9\u3002\u4E00\u540D\u4E39\u829D\u3002 \u5EF6\u5E74\u795E\u4ED9\u3002\r\n21.^\_The
+      Divine Farmer's Materia Medica: A Translation of the Shen Nong Ben Cao Jing.
+      Translated by Yang, Shouzhong. Blue Poppy Enterprises. 1998. pp.\_17\u201318.\_ISBN\_9780936185965.\r\n22.^\_\"Reishi
+      Mushroom Benefits & Other Facts about Reishi\".\_Reishi Essence.\r\n23.^\_Li,
+      Shizhen.\_\u672C\u8349\u7DB1\u76EE\u2002\_[Compendium of Materia Medica] (in
+      Chinese) \u2013 via\_Wikisource.\_\u80F8\u4E2D\u7D50, \u76CA\u5FC3\u6C23, \u88DC\u4E2D,
+      \u589E\u667A\u6167, \u4E0D\u5FD8\u3002\u4E45\u98DF, \u8F15\u8EAB\u4E0D\u8001,
+      \u5EF6\u5E74\u795E\u4ED9\u3002\r\n24.^\_a\_b\_Halpern, Georges M. (2007).\_Healing
+      Mushrooms. Square One Publishers. p.\_59.\_ISBN\_978-0-7570-0196-3.\r\n25.^\_a\_b\_Stuart,
+      G. A.; Smith, F. Porter (1911).\_Chinese Materia Medica, Pt. 1, Vegetable Kingdom.
+      Presbyterian Mission Press. pp.\_271, 274.\_ISBN\_9780879684693.\r\n26.^\_a\_b\_Smith,
+      John; Rowan, Neil; Sullivan, Richard (2001).\_\"Medicinal mushrooms: their
+      therapeutic properties and current medical usage with special emphasis on cancer
+      treatments\".\_Cancer Research UK: 28, 31. Archived from\_the original\_on
+      31 August 2009.\r\n27.^\_a\_b\_Pregadio, Fabrizio, ed. (2008).\_The Encyclopedia
+      of Taoism. Routledge. p.\_1271.\_ISBN\_9780203695487.\_Zhi\_\u829D numinous
+      mushrooms; excrescences\r\n28.^\_Bretschneider, E. (1893).\_Botanicon Sinicum.\_Kelly
+      & Walsh. p.\_40.\r\n29.^\_Groot, Johann Jacob Maria de (1892\u20131910).\_The
+      Religious System of China. Its ancient forms, evolution, history and present
+      aspect. Manners, customs and social institutions connected therewith.\_IV.
+      Leiden:\_Brill Publishers. p.\_307.\r\n30.^\_Hu, Shiu-ying (2006).\_Food Plants
+      of China.\_Chinese University Press. p.\_268.\_ISBN\_9789629962296.\r\n31.^\_Bedini,
+      Silvio A. (1994).\_The Trail of Time.\_Cambridge University Press. p.\_113.\_ISBN\_9780521374828.\r\n32.^\_Schipper,
+      Kristofer M. (1993).\_The Taoist Body.\_University of California Press. p.\_174.\r\n33.^\_Rogers,
+      Robert (2011). \"Ganoderma lucidum\".\_The Fungal Pharmacy: The Complete Guide
+      to Medicinal Mushrooms & Lichens of North America. BErkeley, CA: North Atlantic
+      Books. pp.\_172\u2013185.\_ISBN\_978-1-55643-953-7.\r\n34.^\_\"ling chih\".\_Oxford
+      English Dictionary. 4.0 (CD-ROM\_ed.). 2009.\r\n35.^\_Bushell, Stephen Wootton\_(1904).\_Chinese
+      Art. H.M. Stationery Office. p.\_148.(Victoria and Albert Museum); This context
+      describes the\_lingzhi\_fungus and\_ruyi scepter\_as Daoist symbols of longevity
+      on a jade vase.\r\n36.^\_\"Names of a Selection of Asian Fungi\".\_Multilingual
+      Multiscript Plant Name Database.\_University of Melbourne. 18 February 1999.\r\n37.^\_a\_b\_c\_Paterson,
+      R. Russell M. (2006). \"Ganoderma \u2013 A therapeutic fungal biofactory\".\_Phytochemistry.\_67\_(18):
+      1985\u20132001.\_doi:10.1016/j.phytochem.2006.07.004.\_hdl:1822/5522.\_PMID\_16905165.\r\n38.^\_Kohguchi,
+      Michihiro; Kunikata, Toshio; Watanabe, Hikaru; Kudo, Naoki; Shibuya, Takashi;
+      Ishihara, Tatsuya; Iwaki, Kanso; Ikeda, Masao; Fukuda, Shigeharu; Kurimoto,
+      Masashi (2014).\_\"Immuno-potentiating Effects of the Antler-shaped Fruiting
+      Body of (Rokkaku-Reishi)\".\_Bioscience, Biotechnology, and Biochemistry.\_68\_(4):
+      881\u2013887.\_doi:10.1271/bbb.68.881.\_PMID\_15118318.\r\n39.^\_Meuninck,
+      Jim (2017).\_Foraging Mushrooms Oregon: Finding, Identifying, and Preparing
+      Edible Wild Mushrooms.\_Falcon Guides. p.\_56.\_ISBN\_978-1-4930-2669-2.\r\n40.^\_a\_b\_Wachtel-Galor,
+      Sissi; Yuen, John; Buswell, John A.; Benzie, Iris F. F. (2011).\_\"Ganoderma
+      lucidum (Lingzhi or Reishi): A Medicinal Mushroom\". In Benzie, Iris F. F.;
+      Wachtel-Galor, Sissi (eds.).\_Herbal Medicine: Biomolecular and Clinical Aspects(2nd\_ed.).
+      Boca Raton, FL:\_CRC Press/Taylor & Francis.\_ISBN\_978-1-4398-0713-2.\_PMID\_22593926.\r\n41.^\_\"How
+      To Make A Medicinal Mushroom Double-Extraction Tincture\".\_Herbal Academy.
+      2016-09-19. Retrieved\_2021-01-05.\r\n42.^\_Andy Corbley (2020-12-10).\_\"Stanford
+      Designer is Making Bricks Out of Fast-Growing Mushrooms That Are Stronger than
+      Concrete\".\_Good News Network. Retrieved\_2021-01-05."
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}

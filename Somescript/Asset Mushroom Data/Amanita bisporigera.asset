@@ -1,0 +1,397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51f3867395fd1cf43897802bdd56f4fb, type: 3}
+  m_Name: Amanita bisporigera
+  m_EditorClassIdentifier: 
+  itemID: 002
+  itemTag: P
+  icon: {fileID: 21300000, guid: 50d3a035797c28c4e8a1b9eeb6dced5f, type: 3}
+  mushroom3D: {fileID: 6473758821864253366, guid: d80cca067243d744a8c6b7f8a685caa0,
+    type: 3}
+  clip: {fileID: 8300000, guid: b6e3b614fe6e6384b81b0aadfcd24b59, type: 3}
+  source: {fileID: 0}
+  mushroomName: Amanita bisporigera
+  marketName: Destroying angel
+  position: {x: 277.58, y: 97.329, z: 154.811}
+  rotation: {x: -104.938, y: 4.999985, z: 114.397}
+  encyAll:
+  - title: 'Known as: Destroying Angel'
+    description: "Amanita bisporigera\_is a deadly\_poisonous\_species of\_fungus\_in
+      the family\_Amanitaceae. It is commonly known as the\_eastern destroying angel
+      amanita,[3]\_the\_eastern North American destroying angel\_or just as the\_destroying
+      angel, although the fungus shares this latter name with three other lethal
+      white\_Amanita\_species,\_A.\u2002ocreata,\_A.\u2002verna\_and\_A.\u2002virosa.
+      The\_fruit bodies\_are found on the ground in\_mixed coniferous\_and\_deciduous
+      forests\_of eastern North America south to Mexico, but are rare in western
+      North America; the fungus has also been found in pine plantations in\_Colombia.
+      The mushroom has a smooth white\_cap\_that can reach up to 10\_cm (4\_in) across,
+      and a\_stipe, up to 14\_cm (5.5\_in) long by 1.8\_cm (0.7\_in) thick, that
+      has a delicate white skirt-like\_ring\_near the top. The bulbous stipe base
+      is covered with a membranous sac-like\_volva. The white\_gills\_are free from
+      attachment to the\_stalk\_and crowded closely together. As the\_species name\_suggests,\_A.\_bisporigera\_typically
+      bears two\_spores\_on the\_basidia, although this characteristic is not as
+      immutable as was once thought.\r\nAmanita bisporigera\_was\_described\_as a
+      new species in 1906. It is\_classified\_in the\_section\_Phalloideae\_of the
+      genus\_Amanita\_together with other\_amatoxin-containing species. Amatoxins
+      are\_cyclic peptides\_which\_inhibit\_the enzyme\_RNA polymerase II\_and interfere
+      with various cellular functions. The first symptoms of poisoning appear 6 to
+      24 hours after consumption, followed by a period of apparent improvement, then
+      by symptoms of\_liver\_and\_kidney failure, and death after four days or more.\_Amanita
+      bisporigera\_closely resembles a few other white amanitas, including the equally
+      deadly\_A.\_virosa\_and\_A.\_verna. These species, difficult to distinguish
+      from\_A.\_bisporigera\_based on visible field characteristics, do not have
+      two-spored\_basidia, and do not stain yellow when a dilute solution of\_potassium
+      hydroxide\_is applied. The\_DNA\_of\_A.\_bisporigera\_has been partially\_sequenced,
+      and the\_genes\_responsible for the production of amatoxins have been determined.\r\n"
+    illust_0: {fileID: 21300000, guid: 1c8b8cd25b52446429cfe045f227fd46, type: 3}
+    illust_1: {fileID: 21300000, guid: e1476d69a61735046b7bbbab511cda27, type: 3}
+    illust_2: {fileID: 21300000, guid: ec492d2d14872e84289f82e396b80d83, type: 3}
+    illust_3: {fileID: 0}
+  - title: Taxonomy, classification, and phylogeny
+    description: "Amanita bisporigera\_was first described scientifically in 1906
+      by American botanist\_George Francis Atkinson\_in a publication by\_Cornell
+      University\_colleague Charles E. Lewis. The\_type locality\_was\_Ithaca, New
+      York, where several collections were made.[5]\_In his 1941\_monograph\_of world\_Amanita\_species,\_\xC9douard-Jean
+      Gilbert\_transferred the species to his new genus\_Amanitina,[6]\_but this
+      genus is now considered\_synonymous\_with\_Amanita.[7]\_In 1944,\_William Murrill\_described
+      the species\_Amanita vernella, collected from\_Gainesville, Florida;[8]\_that
+      species is now thought to be synonymous with\_A.\_bisporigera\_after a 1979
+      examination of its type material revealed\_basidia\_that were mostly 2-spored.[2][9]\_Amanita
+      phalloides\_var.\_striatula, a poorly known taxon originally described from
+      the United States in 1902 by\_Charles Horton Peck,[10]\_is considered by\_Amanita\_authority
+      Rodham Tulloss to be synonymous with\_A.\_bisporigera.[2]\_Vernacular names\_for
+      the mushroom include \"destroying angel\", \"deadly amanita\", \"white death
+      cap\", \"angel of death\"[11]\_and \"eastern North American destroying angel\".[12]\r\n\nAmanita
+      bisporigera\_belongs to\_section\_Phalloideae\_of the genus\_Amanita, which
+      contains some of the deadliest\_Amanita\_species, including\_A.\_phalloides\_and\_A.\_virosa.
+      This\_classification\_has been upheld with\_phylogenetic\_analyses, which demonstrate
+      that the toxin-producing members of section\_Phalloideae\_form a\_clade\u2014that
+      is, they derive from a common ancestor.[13][14]\_In 2005, Zhang and colleagues
+      performed a phylogenetic analysis based on the\_internal transcribed spacer\_(ITS)
+      sequences of several white-bodied toxic\_Amanita\_species, most of which are
+      found in Asia. Their results support a clade containing\_A. bisporigera,\_A.\_subjunquillea\_var.\_alba,\_A.\_exitialis,
+      and\_A.\_virosa. The Guangzhou destroying angel (Amanita exitialis) has two-spored
+      basidia, like\_A.\_bisporigera.[4]"
+    illust_0: {fileID: 21300000, guid: 887b3eb41bdccc741a174c51802ee88e, type: 3}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Description
+    description: "The\_cap\_is 3\u201310\_cm (1.2\u20133.9\_in) in diameter and,
+      depending on its age, ranges in shape from egg-shaped to convex to somewhat
+      flattened. The cap surface is smooth and white, sometimes with a pale tan-
+      or cream-colored tint in the center. The surface is either dry or, when the
+      environment is moist, slightly sticky. The\_flesh\_is thin and white, and does
+      not change color when bruised.[11]\_The margin of the cap, which is rolled
+      inwards in young specimens, does not have striations (grooves), and lacks\_volval\_remnants.
+      The\_gills, also white, are crowded closely together. They are either free
+      from attachment to the\_stipe\_or just barely reach it. The lamellulae (short
+      gills that do not extend all the way to the stipe) are numerous, and gradually
+      narrow.\r\n\r\nThe white stipe is 6\u201314\_cm (2.4\u20135.5\_in) by 0.7\u20131.8\_cm
+      (0.3\u20130.7\_in) thick, solid (i.e., not hollow), and tapers slightly upward.
+      The surface, in young specimens especially, is frequently floccose (covered
+      with tufts of soft hair), fibrillose (covered with small slender fibers), or
+      squamulose (covered with small scales); there may be fine grooves along its
+      length. The bulb at the base of the stipe is spherical or nearly so. The delicate\_ring\_on
+      the upper part of the stipe is a remnant of the\_partial veil\_that extends
+      from the cap margin to the stalk and covers the gills during development. It
+      is white, thin, membranous, and hangs like a skirt. When young, the mushrooms
+      are enveloped in a membrane called the\_universal veil, which stretches from
+      the top of the cap to the bottom of the stipe, imparting an oval, egg-like
+      appearance. In mature fruit bodies, the veil's remnants form a membrane around
+      the base, the volva, like an eggshell-shaped cup. On occasion, however, the
+      volva remains underground or gets torn up during development. It is white,
+      sometimes lobed, and may become pressed closely to the stipe.[15]\_The volva
+      is up to 3.8\_cm (1.5\_in) in height (measured from the base of the bulb),
+      and is about 2\_mm thick midway between the top and the base attachment.[12]\_The
+      mushroom's odor has been described as \"pleasant to somewhat nauseous\",[11]\_becoming
+      more\_cloying\_as the fruit body ages.[12]\_The cap flesh turns yellow when
+      a solution of\_potassium hydroxide\_(KOH, 5\u201310%) is applied (a common\_chemical
+      test\_used in mushroom identification). This characteristic chemical reaction
+      is shared with\_A.\_ocreata\_and\_A.\_virosa, although some authors have expressed
+      doubt about the identity of North American\_A.\_virosa, suggesting those collections
+      may represent four-spored\_A.\_bisporigera.[12][16]\_Tulloss suggests that
+      reports of\_A.\_bisporigera\_that do not turn yellow with KOH were actually
+      based on white forms of\_A.\u2002phalloides.[12]\_Findings from the\_Chiricahua
+      Mountains\_of\_Arizona\_and in central Mexico, although \"nearly identical\"
+      to\_A.\_bisporigera, do not stain yellow with KOH; their taxonomic status has
+      not been investigated in detail.[2]\r\n"
+    illust_0: {fileID: 21300000, guid: c83a5c840abf9f5408629856ac6e500c, type: 3}
+    illust_1: {fileID: 21300000, guid: 20e5d037a38b5c245b5364492b594b46, type: 3}
+    illust_2: {fileID: 21300000, guid: 74f26f0d8b6160047b202a1067662020, type: 3}
+    illust_3: {fileID: 0}
+  - title: Microscopic features
+    description: "The\_spore print\_of\_A.\_bisporigera, like most\_Amanita, is white.
+      The\_spores\_are roughly spherical, thin-walled,\_hyaline\_(translucent),\_amyloid,
+      and measure 7.8\u20139.6 by 7.0\u20139.0\_\u03BCm. The\_cap cuticle\_is made
+      of partially gelatinized, filamentous interwoven\_hyphae, 2\u20136\_\u03BCm
+      in diameter. The tissue of the gill is bilateral, meaning it diverges from
+      the center of the gill to its outer edge. The subhymenium is ramose\u2014composed
+      of relatively thin branching, unclamped hyphae. The spore-bearing cells, the\_basidia,
+      are club-shaped, thin-walled, without clamps, with dimensions of 34\u201345
+      by 4\u201311\_\u03BCm. They are typically two-spored, although rarely three-
+      or four-spored forms have been found.[15]\_Although the two-spored basidia
+      are a defining characteristic of the species, there is evidence of a tendency
+      to shift towards producing four-spored basidia as the fruiting season progresses.[12]\_The
+      volva is composed almost exclusively of densely interwoven filamentous hyphae,
+      2\u201310\_\u03BCm in diameter, that are sparsely to moderately branched. There
+      are few small inflated cells, which are mostly spherical to broadly elliptic.
+      The tissue of the stipe is made of abundant, sparsely branched, filamentous
+      hyphae, without clamps, measuring 2\u20135\_\u03BCm in diameter. The inflated
+      cells are club-shaped, longitudinally oriented, and up to 2\u20133 by 15.7\_\u03BCm.
+      The annulus is made of abundant moderately branched filamentous hyphae, measuring
+      2\u20136\_\u03BCm in diameter. The inflated cells are sparse, broadly elliptic
+      to pear-shaped, and are rarely larger than 31 by 22\_\u03BCm.[15]\_Pleurocystidia\_and\_cheilocystidia\_(cystidia\_found
+      on the gill faces and edges, respectively) are absent, but there may be cylindrical
+      to sac-like cells of the partial veil on the gill edges; these cells are hyaline
+      and measure 24\u201334 by 7\u201316\_\u03BCm.[11]\r\n\r\nIn 1906 Charles E.
+      Lewis studied and illustrated the development of the basidia in order to compare
+      the\_nuclear\_behavior of the two-spored with that of the four-spored forms.
+      Initially (1), the young basidium, appearing as a club-shaped branch from the
+      subhymenium, is filled with\_cytoplasm\_and contains two primary nuclei, which
+      have distinct\_nucleoli. As the basidium grows larger, the membranes of the
+      two nuclei contact (2), and then the membrane disappears at the point of contact
+      (3). The two primary nuclei remain distinct for a short time, but eventually
+      the two nuclei fuse completely to form a larger secondary nucleus with a single
+      secondary nucleolus (4, 5). The basidium increases in size after the primary
+      nuclei fuse, and the nucleus migrates towards the end of the basidia (6, 7).
+      During this time, the nucleus develops\_vacuoles\_\"filled by the nuclear sap
+      in the living cell\".\_Chromosomes\_are produced from the nucleolar threads,
+      and align transversely near the apex of the basidium, connected by\_spindles\_(8\u201310).
+      The chromosomes then move to the poles, forming the daughter nuclei that occupy
+      different positions in the basidium; the daughters now have a structure similar
+      to that of the parent nuclei (11). The two nuclei then divide to form four
+      nuclei, similar to fungi with four-spored basidia (12, 13). The four nuclei
+      crowd together at some distance from the end of the basidium to form an irregular
+      mass (14). Shortly thereafter, the sterigmata (slender projections of the basidia
+      that attach the spores) begin to form (15), and cytoplasm begins to pass through
+      the sterigmata to form the spores (16). Although Lewis was not able to clearly
+      determine from observation alone whether the contents of two or four nuclei
+      passed through the sterigmata, he deduced, by examining older basidia with
+      mature spores, that only two nuclei enter the spores (16, 17).[5]\r\n"
+    illust_0: {fileID: 21300000, guid: 74f26f0d8b6160047b202a1067662020, type: 3}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Toxicity
+    description: "Amanita bisporigera\_is considered the most toxic North American\_Amanita\_mushroom,
+      with little variation in toxin content between different fruit bodies.[17][18]\_Three
+      subtypes of amatoxin have been described:\_\u03B1-,\_\u03B2, and\_\u03B3-amanitin.
+      The principal amatoxin, \u03B1-amanitin, is readily absorbed across the intestine,
+      and 60% of the absorbed toxin is excreted into\_bile\_and undergoes\_enterohepatic
+      circulation; the kidneys clear the remaining 40%. The toxin\_inhibits\_the
+      enzyme\_RNA polymerase II, thereby interfering with\_DNA transcription, which
+      suppresses RNA production and\_protein synthesis. This causes cellular\_necrosis,
+      especially in cells which are initially exposed and have rapid rates of protein
+      synthesis. This process results in severe acute liver dysfunction and, ultimately,\_liver
+      failure.[19]\_Amatoxins are not broken down by boiling, freezing, or drying.[20][21]\_Roughly
+      0.2 to 0.4\_milligrams\_of \u03B1-amanitin is present in 1\_gram of\_A.\_bisporigera;
+      the\_lethal dose\_in humans is less than 0.1\_mg/kg body weight.[19]\_One mature
+      fruit body can contain 10\u201312\_mg of \u03B1-amanitin, enough for a lethal
+      dose.[22]\_The \u03B1-amanitin concentration in the spores is about 17% that
+      of the fruit body tissues.[23]\_A.\_bisporigera\_also contains the\_phallotoxin\_phallacidin,
+      structurally related to the amatoxins but considered less poisonous because
+      of poor absorption.[22]\_Poisonings (from similar white amanitas) have also
+      been reported in domestic animals, including dogs, cats, and cows.[24]\r\nThe
+      first reported poisonings resulting in death from the consumption of\_A.\_bisporigera\_were
+      from near\_San Antonio, Mexico, in 1957, where a rancher, his wife, and three
+      children consumed the fungus; only the man survived.[25]\_Amanita\_poisoning
+      is characterized by the following distinct stages:[26]\_the\_incubation stage\_is
+      an\_asymptomatic\_period which ranges from 6 to 12 hours after ingestion. In
+      the\_gastrointestinal stage, about 6 to 16 hours after ingestion, there is
+      onset of abdominal pain, explosive vomiting, and diarrhea for up to 24 hours,
+      which may lead to dehydration, severe\_electrolyte\_imbalances, and\_shock.
+      These early symptoms may be related to other toxins such as\_phalloidin. In
+      the cytotoxic stage, 24 to 48 hours after ingestion, clinical and biochemical
+      signs of liver damage are observed, but the patient is typically free of gastrointestinal
+      symptoms. The signs of liver dysfunction such as\_jaundice,\_hypoglycemia,\_acidosis,
+      and\_hemorrhage\_appear. Later, there is an increase in the levels of\_prothrombin\_and
+      blood levels of\_ammonia, and the signs of\_hepatic encephalopathy\_and/or\_kidney
+      failure\_appear. The\_risk factors\_for mortality that have been reported are
+      age younger than 10 years, short latency period between ingestion and onset
+      of symptoms, severe\_coagulopathy\_(blood clotting disorder), severe\_hyperbilirubinemia\_(jaundice),
+      and rising serum\_creatinine\_levels.[19]"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Similar species
+    description: "The color and general appearance of\_A.\_bisporigera\_are similar
+      to those of\_A.\u2002verna\_and\_A.\u2002virosa.\_A.\_bisporigera\_is at times
+      smaller and more slender than either\_A.\_verna\_or\_A.\_virosa, but it varies
+      considerably in size; therefore size is not a reliable diagnostic characteristic.[11]\_A.\_virosa\_fruits
+      in autumn\u2014later than\_A.\_bisporigera.[27]\_A.\u2002elliptosperma\_is
+      less common but widely distributed in the southeastern United States, while\_A.\u2002ocreata\_is
+      found on the\_West Coast\_and in the Southwest. Other similar toxic North American
+      species include\_Amanita magnivelaris, which has a cream-colored, rather thick,
+      felted-submembranous, skirt-like ring,[28]\_and\_A.\u2002virosiformis, which
+      has elongated spores that are 3.9\u20134.7 by 11.7\u201313.4\_\u03BCm.[29]\_Neither\_A.\_elliptosperma\_nor\_A.\_magnivelaris\_typically
+      turn yellow with the application of KOH;[30][31]\_the KOH reaction of\_A.\_virosiformis\_has
+      not been reported.[32]\r\n\r\nLeucoagaricus leucothites\_is another all-white
+      mushroom with an annulus, free gills, and white spore print, but it lacks a
+      volva and has thick-walled dextrinoid (staining red-brown in\_Melzer's reagent)
+      egg-shaped spores with a pore.[33][34]\_A.\_bisporigera\_may also be confused
+      with the larger\_edible\_species\_Agaricus silvicola, the \"horse-mushroom\".
+      Like many white amanitas, young fruit bodies of\_A.\_bisporigera, still enveloped
+      in the universal veil, can be confused with\_puffball\_species, but a longitudinal
+      cut of the fruit body reveals internal structures in the\_Amanita\_that are
+      absent in puffballs.[35]\_In 2006, seven members of the\_Hmong\_community living
+      in Minnesota were poisoned with\_A.\_bisporigera\_because they had confused
+      it with edible paddy straw mushrooms (Volvariella volvacea) that grow in Southeast
+      Asia.[36]"
+    illust_0: {fileID: 21300000, guid: 270380d04f90b2942b0eedc44b072792, type: 3}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Habitat and distribution
+    description: "Like most other\_Amanita\_species,\_A.\_bisporigera\_is thought
+      to form\_mycorrhizal\_relationships with trees.[16]\_This is a\_mutually beneficial\_relationship
+      where the hyphae of the fungus grow around the roots of trees, enabling the
+      fungus to receive moisture, protection and nutritive byproducts of the tree,
+      and giving the tree greater access to soil nutrients.[37]\_Fruit bodies of\_Amanita
+      bisporigera\_are found on the ground growing either solitarily, scattered,
+      or in groups in\_mixed\_coniferous and deciduous forests;[15]\_they tend to
+      appear during summer and early fall.[27]\_The fruit bodies are commonly found
+      near\_oak, but have been reported in\_birch-aspen\_areas in the west. It is
+      most commonly found in eastern North America, and rare in western North America.
+      It is widely distributed in Canada,[11]\_and its range extends south to Mexico.[38]\_The
+      species has also been found in\_Colombia, where it may have been\_introduced\_from
+      trees exported for use in pine\_plantations.[12]\r\n"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'Genome sequencing '
+    description: "The\_Amanita\_Genome Project was begun in Jonathan Walton's lab
+      at\_Michigan State University\_in 2004 as part of their ongoing studies of\_Amanita
+      bisporigera.[39]\_The purpose of the project is to determine the\_genes\_and
+      genetic controls associated with the formation of mycorrhizae, and to elucidate
+      the biochemical mechanisms of toxin production. The\_genome\_of\_A.\_bisporigera\_has
+      been sequenced[40]\_using a combination of automated\_Sanger sequencing\_and\_pyrosequencing,
+      and the genome sequence information is publicly searchable.[41]\_The sequence
+      data enabled the researchers to identify the genes responsible for amatoxin
+      and phallotoxin biosynthesis,\_AMA1\_and\_PHA1. The cyclic peptides are synthesized
+      on\_ribosomes, and require\_proline-specific\_peptidases\_from the\_prolyl
+      oligopeptidase\_family for\_processing.[22][42]\r\nThe genetic sequence information
+      from\_A.\_bisporigera\_has been used to identify molecular\_polymorphisms\_in
+      the related\_A.\_phalloides. These\_single-nucleotide polymorphisms\_may be
+      used as population\_genetic markers\_to study\_phylogeography\_and\_population
+      genetics.[43]\_Sequence information has also been employed to show that\_A.\_bisporigera\_lacks
+      many of the major classes of secreted enzymes that break down the complex\_polysaccharides\_of\_plant
+      cell walls, like\_cellulose. In contrast,\_saprobic\_fungi like\_Coprinopsis
+      cinerea\_and\_Galerina marginata, which break down\_organic matter\_to obtain
+      nutrients, have a more complete complement of cell wall-degrading enzymes.
+      Although few ectomycorrhizal fungi have yet been tested in this way, the authors
+      suggest that the absence of plant cell wall-degrading ability may correlate
+      with the ectomycorrhizal ecological niche.[44]"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: References
+    description: "1.\_\"Amanitina bisporigera\u2002(G.F. Atk.) E.-J. Gilbert 1941\".\_MycoBank.
+      International Mycological Association. Retrieved\_2010-05-27.\r\n2.^\_a\_b\_c\_d\_Tulloss
+      R, Pussiel L (2005-07-16).\_\"Key to Species of AMANITA Section PHALLOIDEAE
+      from North and Central America\".\_Amanita studies. Retrieved\_2010-05-28.\r\n3.^\_\"Standardized
+      Common Names for Wild Species in Canada\".\_National General Status Working
+      Group. 2020.\r\n4.^\_a\_b\_Zhang P, Chen Z, Hu J, Wei B, Zhang Z, Hu W (2005).\_\"Production
+      and characterization of Amanitin toxins from a pure culture of\u2002Amanita
+      exitialis\".\_FEMS Microbiology Letters.\_252\_(2): 223\u2013228.\_doi:10.1016/j.femsle.2005.08.049.\_PMID\_16198510.\r\n5.^\_a\_b\_c\_Lewis
+      CE (1906).\_\"The basidium of\u2002Amanita bisporigera\".\_Botanical Gazette.\_41\_(5):
+      348\u2013352.\_doi:10.1086/328827.\_JSTOR\_2465725.\r\n6.^\_Gilbert E-J (1940).
+      \"Amanitaceae\".\_Iconographia Mycologica.\_27\_(Suppl. 1): 78.\r\n7.^\_Kirk
+      PM, Cannon PF, Minter DW, Stalpers JA (2008).\_Dictionary of the Fungi(10th\_ed.).
+      Wallingford, UK: CAB International. p.\_23.\_ISBN\_978-0-85199-826-8.\r\n8.^\_Murrill
+      WA (1944). \"More fungi from Florida\".\_Lloydia.\_7\_(4): 303\u2013327.\r\n9.^\_Jenkins
+      DT (1979).\_\"A study of\u2002Amanita\u2002types III. Taxa described by W.
+      A. Murrill\".\_Mycotaxon.\_10\_(1): 175\u2013200. Archived from\_the original\_on
+      2015-09-23. Retrieved\_2010-05-28.\r\n10.^\_Peck CH (1902).\_\"Report of the
+      State Botanist 1901\".\_Bulletin of the New York State Museum.\_54: 931\u2013982.\r\n11.^\_a\_b\_c\_d\_e\_f\_Ammirati
+      JF, Traquair JA, Horgen PA (1985).\_Poisonous Mushrooms of Canada: Including
+      other Inedible Fungi. Markham, Ontario: Fitzhenry & Whiteside in cooperation
+      with Agriculture Canada and the Canadian Government Publishing Centre, Supply
+      and Services Canada. pp.\_85\u201387.\_ISBN\_978-0-88902-977-4.\r\n12.^\_a\_b\_c\_d\_e\_f\_g\_Tulloss
+      R.\_\"Amanita bisporigera\u2002G. F. Atk\".\_Amanita studies. Archived from\_the
+      original\_on 2011-05-15. Retrieved\_2010-05-27.\r\n13.^\_Weiss M, Yang F, Oberwinkler
+      F (1998). \"Molecular phylogenetic studies in the genus\_Amanita\".\_Canadian
+      Journal of Botany.\_76\_(7): 1170\u20131179.\_doi:10.1139/cjb-76-7-1170.\r\n14.^\_Drehmel
+      D, Moncalvo J-M, Vilgalys R (1999). \"Molecular phylogeny of\_Amanitabased
+      on large-subunit ribosomal DNA sequences: implications for taxonomy and character
+      evolution\".\_Mycologia.\_91\_(4): 610\u2013618.\_doi:10.2307/3761246.\_JSTOR\_3761246.\r\n15.^\_a\_b\_c\_d\_Jenkins,
+      1986, pp. 140\u201341.\r\n16.^\_a\_b\_Kuo M. (October 2003).\_\"Amanita bisporigera\".\_MushroomExpert.Com.
+      Archived from\_the original\_on 5 May 2010. Retrieved\_2010-05-26.\r\n17.^\_Tyler
+      VE, Benedict RG, Brady LR, Robbers JE (1966). \"Occurrence of amanita toxins
+      in American collections of deadly amanitas\".\_Journal of Pharmaceutical Sciences.\_55(6):
+      590\u2013593.\_doi:10.1002/jps.2600550612.\_PMID\_5951044.\r\n18.^\_Dart RC
+      (2003).\_Medical toxicology. Philadelphia, Pennsylvania: Lippincott, Williams
+      & Wilkins. p.\_1727.\_ISBN\_978-0-7817-2845-4.\r\n19.^\_a\_b\_c\_Madhok M,
+      Scalzo AJ, Blume CM, Neuschwander-Tetri BA, Weber JA, Thompson MW (2006). \"Amanita
+      bisporigera\_ingestion: mistaken identity, dose-related toxicity, and improvement
+      despite severe hepatotoxicity\".\_Pediatric Emergency Care.\_22\_(3): 177\u2013280.\_doi:10.1097/01.pec.0000202459.49731.33.\_PMID\_16628103.\r\n20.^\_Benjamin
+      DR (1995).\_Mushrooms, Poisons and Panaceas. A Handbook for Naturalists, Mycologists,
+      and Physicians. San Francisco, California: W.H. Freeman. p.\_212.\_ISBN\_978-0-7167-2649-4.\r\n21.^\_Hall
+      IR (2003).\_Edible and Poisonous Mushrooms of the World. Portland, Oregon:
+      Timber Press. p.\_107.\_ISBN\_978-0-88192-586-9.\r\n22.^\_a\_b\_c\_Hallen HE,
+      Luo H, Scott-Craig JS, Walton JD (2007).\_\"Gene family encoding the major
+      toxins of lethal\u2002Amanita\u2002mushrooms\".\_Proceedings of the National
+      Academy of Sciences of the United States of America.\_104\_(48): 19097\u201319101.\_doi:10.1073/pnas.0707340104.\_PMC\_2141914.\_PMID\_18025465.\r\n23.^\_McKnight
+      TA, McKnight KB, Skeels MC (2010). \"Amatoxin and phallotoxin concentration
+      in\_Amanita bisporigera\_spores\".\_Mycologia.\_102\_(4): 763\u2013765.\_doi:10.3852/09-131.\_PMID\_20648744.\_S2CID\_29289507.\r\n24.^\_Tu
+      AT. (1992).\_Food Poisoning. New York, New York: Dekker. pp.\_321\u2013322.\_ISBN\_978-0-8247-8652-6.\r\n25.^\_Helm
+      R. (1957). \"Sur un cas d'empoisonnement mortel cause au Mexique par l'Amanita
+      bisporigera Atk\" [On a case of fatal poisoning caused by\_Amanita bisporigera\_Atk.
+      in Mexico].\_Revue de Mycologie\_(in French).\_22\_(2): 208\u2013216.\r\n26.^\_Fineschi
+      V, Di Paolo M, Centini F (1996). \"Histological criteria for diagnosis of\_Amanita\_poisoning\".\_Journal
+      of Forensic Sciences.\_41\_(3): 429\u2013432.\_doi:10.1520/JFS13929J.\_PMID\_8656182.\r\n27.^\_a\_b\_Smith
+      AH, Weber NS (1980).\_The Mushroom Hunter's Field Guide. Ann Arbor, Michigan:
+      University of Michigan Press. pp.\_174\u2013175.\_ISBN\_978-0-472-85610-7.\r\n28.^\_Tulloss
+      R. (2009).\_\"Amanita magnivelaris\u2002Peck\".\_Amanita studies. Archived
+      from\_the original\_on 2011-07-16. Retrieved\_2010-05-28.\r\n29.^\_Jenkins,
+      1986, p. 146.\r\n30.^\_Tullos R.\_\"Amanita elliptosperma\u2002G.F. Atk.,\u2002A.
+      gwyniana\u2002Coker,\u2002A. hygroscopicaCoker,\u2002A. parviformis\u2002(Murrill)
+      Murrill,\u2002A. pseudoverna\u2002(Murrill) Murrill,\u2002A. verniformis(Murrill)
+      Murrill\".\_Amanita Studies. Archived from\_the original\_on 2011-07-14. Retrieved\_2010-06-28.\r\n31.^\_Tulloss
+      R.\_\"Amanita magnivelaris\u2002Peck\".\_Amanita Studies. Archived from\_the
+      original\_on 2011-07-14. Retrieved\_2010-06-28.\r\n32.^\_Jenkins, 1986, p.
+      141.\r\n33.^\_Rumack BH, Spoerke DG (1994).\_Handbook of Mushroom Poisoning:
+      Diagnosis and Treatment. Boca Raton, Florida: CRC Press. p.\_116.\_ISBN\_978-0-8493-0194-0.\r\n34.^\_Miller
+      HR, Miller OK (2006).\_North American Mushrooms: a Field Guide to Edible and
+      Inedible Fungi. Guilford, Connecticut: Falcon Guide. p.\_55.\_ISBN\_978-0-7627-3109-1.\r\n35.^\_Ammirati
+      J, Trudell S (2009).\_Mushrooms of the Pacific Northwest: Timber Press Field
+      Guide (Timber Press Field Guides). Portland, Oregon: Timber Press. p.\_80.\_ISBN\_978-0-88192-935-5.\r\n36.^\_Madhok
+      M. (2007).\_\"Amanita bisporigera. Ingestion and death from mistaken identity\".\_Minnesota
+      Medicine.\_90\_(9): 48\u201350.\_PMID\_17966265.\r\n37.^\_Jenkins, 1986, p.
+      5.\r\n38.^\_Guzm\xE1n G. (1973). \"Some distributional relationships between
+      Mexican and United States mycofloras\".\_Mycologia.\_65\_(6): 1319\u20131330.\_doi:10.2307/3758146.\_JSTOR\_3758146.\_PMID\_4773309.\r\n39.^\_Hallen
+      HE, Walton J.\_\"The\u2002Amanita\u2002Genome Project: Scientific Importance\".
+      Michigan State University. Archived from\_the original\_on 2011-06-07. Retrieved\_2010-05-27.\r\n40.^\_Pulman,
+      Jane A.; Childs, Kevin L.; Sgambelluri, R. Michael; Walton, Jonathan D. (2016-01-01).\_\"Expansion
+      and diversification of the MSDIN family of cyclic peptide genes in the poisonous
+      agarics Amanita phalloides and A. bisporigera\".\_BMC Genomics.\_17\_(1): 1038.\_doi:10.1186/s12864-016-3378-7.\_ISSN\_1471-2164.\_PMC\_5159998.\_PMID\_27978833.\r\n41.^\_\"BLAST
+      Search\".\_Amanita bisporigera Genome Project BLAST Page. Michigan State University
+      DOE Plant Research Laboratory and the Bioinformatics Core of the Research Technology
+      Support Facility at MSU. Archived from\_the original\_on 2006-09-01. Retrieved\_2010-07-10.\r\n42.^\_Bohnert
+      M, Wackler B, Hoffmeister D (2010). \"Spotlights on advances in mycotoxin research\".\_Applied
+      Microbiology and Biotechnology.\_87\_(1): 1\u20137.\_doi:10.1007/s00253-010-2565-8.\_PMID\_20376632.\_S2CID\_10017676.\r\n43.^\_Adams
+      RI, Hallen HE, Pringle A (2006).\_\"Primer note: Using the incomplete genome
+      of the ectomycorrhizal fungus\u2002Amanita bisporigera\u2002to identify molecular
+      polymorphisms in the related\u2002Amanita phalloides\"\_(PDF).\_Molecular Ecology
+      Notes.\_6: 218\u2013220.\_doi:10.1111/j.1471-8286.2005.01198.x. Archived from\_the
+      original\_on 2006-09-19.\r\n44.^\_Nagendran S, Hallen-Adams HE, Paper JM, Aslam
+      N, Walton JD (2009).\_\"Reduced genomic potential for secreted plant cell-wall-degrading
+      enzymes in the ectomycorrhizal fungus\u2002Amanita bisporigera, based on the
+      secretome of\u2002Trichoderma reesei\".\_Fungal Genetics and Biology.\_46\_(5):
+      427\u2013435.\_doi:10.1016/j.fgb.2009.02.001.\_PMID\_19373972."
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}

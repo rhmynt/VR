@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51f3867395fd1cf43897802bdd56f4fb, type: 3}
+  m_Name: Inonotus obliquus
+  m_EditorClassIdentifier: 
+  itemID: 006
+  itemTag: M
+  icon: {fileID: 21300000, guid: e52b06b6c78c0e84b873e3a4505030df, type: 3}
+  mushroom3D: {fileID: 5162638942630841796, guid: d5f3de9df87799a45a0d8b0e1497785c,
+    type: 3}
+  clip: {fileID: 8300000, guid: 6af0587915fb4204da7d1f92104a6652, type: 3}
+  source: {fileID: 0}
+  mushroomName: Inonotus obliquus
+  marketName: Chaga
+  position: {x: 315.517, y: 67.452, z: 118.526}
+  rotation: {x: -217.634, y: -22.73999, z: 267.766}
+  encyAll:
+  - title: 'Known as: Chaga'
+    description: "Inonotus obliquus, commonly known as\_chaga\_(a\_Latinisation\_of
+      the Russian word \u0447\u0430\u0433\u0430), is a\_fungus\_in the family\_Hymenochaetaceae.
+      It is\_parasitic\_on\_birch\_and other trees. The sterile\_conk\_is irregularly
+      formed and has the appearance of burnt charcoal. It is not the\_fruiting body\_of
+      the fungus, but a\_sclerotium\_or mass of\_mycelium, mostly black because of
+      the presence of massive amounts of\_melanin.[2]\_Some people consider chaga
+      to be medicinal.[3] \r\n\r\nI. obliquus\_is found most commonly in the\_Circumboreal
+      Region\_of the Northern Hemisphere, where it is distributed in birch forests.[4] "
+    illust_0: {fileID: 21300000, guid: a933c35cbac603649851a1d685687cc8, type: 3}
+    illust_1: {fileID: 21300000, guid: d838158e89eed4945aca5582d37f731e, type: 3}
+    illust_2: {fileID: 21300000, guid: e469bb0758bdd9149b5217772ec58fbc, type: 3}
+    illust_3: {fileID: 0}
+  - title: Morphology
+    description: "I. obliquus\_causes a white\_heart rot\_to develop in the host
+      tree. The chaga spores enter the tree through wounds, particularly poorly healed
+      branch stubs. The white rot decay will spread throughout the\_heartwood\_of
+      the host. During the infection cycle, penetration of the\_sapwood\_occurs only
+      around the sterile exterior\_mycelium\_mass.[4]\_The chaga fungus will continue
+      to cause decay within the living tree for 10\u201380+ years. While the tree
+      is alive, only sterile mycelial masses are produced (the black exterior conk).
+      The sexual stage begins after the tree, or some portion of the tree, is killed
+      by the infection.\_I. obliquus\_will begin to produce fertile fruiting bodies
+      underneath the bark. These bodies begin as a whitish mass that turn to brown
+      with time. Since the sexual stage occurs almost entirely under the bark, the
+      fruiting body is rarely seen.[5]\_These fruiting bodies produce\_basidiospores\_which
+      will spread the infection to other vulnerable trees."
+    illust_0: {fileID: 21300000, guid: 1005596738eac6d4790d015052a5135f, type: 3}
+    illust_1: {fileID: 21300000, guid: 0ee400a89aa7cfa4c98cc24c6aff4dc4, type: 3}
+    illust_2: {fileID: 21300000, guid: 809c5b8b65d014242b627c601488ce20, type: 3}
+    illust_3: {fileID: 0}
+  - title: 'Common names '
+    description: "The name\_chaga\_(/\u02C8t\u0283\u0251\u02D0\u0261\u0259/\_) comes
+      from the Russian name of the fungus (transliterated\_from\_\u0447\u0430\u0433\u0430),
+      which in turn is purportedly derived from the word for the fungus in\_Komi-Permyak,
+      the language of the\_indigenous peoples\_in the\_Kama River Basin, west of
+      the\_Ural Mountains. It is also known as the clinker polypore (from its resemblance
+      to the slag left after a coal fire, known commonly as \"clinker\" when coal
+      fires were common), cinder\_conk, black mass and birch canker polypore.[6]\_In\_England\_and
+      officially in Canada, it is known as the sterile conk trunk rot of birch.[7]"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Distribution and cultivation
+    description: "Generally found growing on birch (Betula\_spp.) trees, it has also
+      been found on alder (Alnus\_spp.), beech (Fagus\_spp.), oak (Quercus\_spp.)
+      and poplar (Populus\_spp.).[8]\_In species other than birch, the fungus often
+      appears as buried stem canker, instead of the charcoal-like mass found on birch
+      trees.[citation needed]\r\nAttempts at\_cultivating\_this fungus on\_potato
+      dextrose agar\_and other simulated\_mediums\_resulted in a reduced and markedly
+      different production of metabolites.[9][10]\_Cultivated chaga developed a reduced
+      number of\_phytosterols, particularly\_lanosterol, an intermediate in the synthesis
+      of\_ergosterol\_and\_lanostane-type\_triterpenes.[9]"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Chemistry
+    description: "The black\_sclerotium\_has been shown to contain large concentrations
+      of\_melanin.[11][12]\_Chaga has been reported to contain extremely high concentrations
+      of\_oxalate, 2800\u201311200 mg total oxalates/100 g sclerotium, one of the
+      highest reported levels of any organism.[13] "
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'Preparation '
+    description: "Chaga is traditionally grated into a fine powder and used to brew
+      a beverage resembling\_coffee\_or\_tea. However, caution is warranted with
+      chronic use due to the extremely high concentrations of oxalates in chaga.
+      Currently, three extraction processes are used.\r\n\uF0B7Hot water extraction
+      is one of the most common preparations. A decoction is created by simmering
+      pieces of the chaga in numerous quarts of water until the water is reduced
+      and the remaining liquid contains a portion of the chaga's concentrated water-soluble
+      compounds. Such preparations, produced in China and Japan, are exported worldwide.
+      The \xDF-D-glucans may have a content of approximately 35% in a pure extract.[14]\_If
+      chaga tea is prepared at home, the chaga chunks can be reused multiple times.\r\n\uF0B7Ethanol\_or\_methanol\_extraction
+      isolates the water-insoluble components, betulinic acid, betulin and the phytosterols.
+      This extraction process is in general used as a second step after hot-water
+      extraction, since ethanol alone will not break down\_chitin\_effectively\u2014heat
+      is essential.\r\n\uF0B7Fermentation\_is the most time-consuming and most expensive.
+      Because fermentation methods are not standardized (many types of bacteria and
+      fungi can be used in the process), the outcome is also not standardized."
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'References '
+    description: "1.\_\"Inonotus obliquus\u2002(Ach. ex Pers.) Pil\xE1t 1942\".\_MycoBank.
+      International Mycological Association. Retrieved\_11 October\_2011.\r\n2.^\_Babitskaya,
+      VG; Shcherba, VV; Lkonnikova, NV (2000). \"Melanin complex of the fungus Inonotus
+      obliquus\".\_Appl Biochem Microbiol.\_36\_(4): 377\u2013381.\_doi:10.1007/BF02738046.\_S2CID\_46047121.\r\n3.^\_Meuninck,
+      Jim (2017).\_Foraging Mushrooms Oregon: Finding, Identifying, and Preparing
+      Edible Wild Mushrooms.\_Falcon Guides. p.\_111.\_ISBN\_978-1-4930-2669-2.\r\n4.^\_a\_b\_Lee,
+      Min-Woong; Hur, Hyeon; Chang, Kwang-Choon; Lee, Tae-Soo; Ka, Kang-Hyeon; Jankovsky,
+      L. (December 2008).\_\"Introduction to Distribution and Ecology of Sterile
+      Conks of Inonotus obliquus\".\_Mycobiology.\_36\_(4): 199\u2013202.\_doi:10.4489/MYCO.2008.36.4.199.\_ISSN\_1229-8093.\_PMC\_3755195.\_PMID\_23997626.\r\n5.^\_MushroomExpert.Com.\_\"Inonotus
+      obliquus (MushroomExpert.Com)\".\_www.mushroomexpert.com. Retrieved\_15 August\_2017.\r\n6.^\_Needham,
+      Arthur (16 December 2005).\_\"Clinker Polypore, Chaga\". Archived from\_the
+      original\_on 9 September 2011. Retrieved\_10 October2011.\r\n7.^\_\"Sterile
+      conk trunk rot of birch\". Canadian Forest Service, Natural Resources Canada,
+      Government of Canada. 4 August 2015. Retrieved\_15 August\_2017.\r\n8.^\_Ryvarden
+      L, Gilbertson RL (1993).\_European polypores. Part 1. Oslo: Fungiflora-Fungiflora.
+      pp.\_1\u2013387.\r\n9.^\_a\_b\_Zheng, W. F.; Liu, T.; Xiang, X. Y.; Gu, Q.
+      (July 2007). \"Sterol composition in field-grown and cultured mycelia of\_Inonotus
+      obliquus\".\_Yao Xue Xue Bao = Acta Pharmaceutica Sinica.\_42\_(7): 750\u2013756.\_PMID\_17882960.\r\n10.^\_Zheng
+      W, Miao K, Liu Y, Zhao Y, Zhang M, Pan S, et\_al. (2010). \"Chemical diversity
+      of biologically active metabolites in the sclerotia of\_Inonotus obliquusand
+      submerged culture strategies for up-regulating their production\".\_Applied
+      Microbiology and Biotechnology.\_87\_(4): 1237\u201354.\_doi:10.1007/s00253-010-2682-4.\_PMID\_20532760.\_S2CID\_22145043.\r\n11.^\_Babitskaya,
+      VG; Shcherba, VV; Lkonnikova, NV; Bisko, NA; Mitropolskaya, NY (2002). \"Melanin
+      complex from medicinal mushroom\_Inonotus obliquus\_(Pers: Fr) Pil\xE1t (chaga)
+      (Aphyllophoromyceditdeae)\".\_Int J Med Mushrooms.\_4: 139\u2013145.\r\n12.^\_Lee,
+      JH; Hyun, CK (September 2014). \"Insulin-sensitizing and beneficial lipid-metabolic
+      effects of the water-soluble melanin complex extracted from\_Inonotus obliquus\".\_Phytother
+      Res.\_28\_(9): 1320\u20131328.\_doi:10.1002/ptr.5131.\_PMID\_24615848.\_S2CID\_23095628.\r\n13.^\_Kikuchi,
+      Y; Seta, K; Y, Ogawa; et\_al. (June 2014). \"Chaga mushroom-induced oxalate
+      nephropathy\".\_Clin Nephrol.\_81\_(6): 440\u2013444.\_doi:10.5414/CN107655.\_PMID\_23149251.\r\n14.^\_Rhee,
+      S.Y. (2008). \"A comparative study of analytical methods for alkali-soluble
+      \u03B2-glucan in medicinal mushroom, Chaga (Inonotus obliquus)\".\_LWT - Food
+      Science and Technology.\_41\_(3): 545\u2013549.\_doi:10.1016/j.lwt.2007.03.028."
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}

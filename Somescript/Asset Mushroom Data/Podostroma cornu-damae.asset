@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51f3867395fd1cf43897802bdd56f4fb, type: 3}
+  m_Name: Podostroma cornu-damae
+  m_EditorClassIdentifier: 
+  itemID: 009
+  itemTag: P
+  icon: {fileID: 21300000, guid: 017ee7f15bb510e46b1c8f643d846c07, type: 3}
+  mushroom3D: {fileID: 4715712157218693574, guid: 79de9acd8d6b3d54b8c885c9547214c5,
+    type: 3}
+  clip: {fileID: 8300000, guid: f888e9abf317bd745a430cd9ac92ce7d, type: 3}
+  source: {fileID: 0}
+  mushroomName: Podostroma cornu-damae
+  marketName: Poison fire coral
+  position: {x: 116.735, y: 60.894, z: 301.679}
+  rotation: {x: -75.326, y: -135.769, z: 138.832}
+  encyAll:
+  - title: 'Known as: Poison fire coral'
+    description: "Podostroma cornu-damae\_(Japanese:\_\u30AB\u30A8\u30F3\u30BF\u30B1,\_Hepburn:\_kaentake),
+      also known the as\_poison fire coral,[2]\_is a species of\_fungus\_in the family\_Hypocreaceae.
+      The\_fruit bodies\_of the fungus are highly\_toxic, and have been responsible
+      for several fatalities in Japan. The fungus contains several\_trichothecene\_mycotoxins. "
+    illust_0: {fileID: 21300000, guid: d101c1db3ab33d24f9bf83c1ffd4b9f5, type: 3}
+    illust_1: {fileID: 21300000, guid: 83908ec768e9ce242885b1dacb1c87a7, type: 3}
+    illust_2: {fileID: 21300000, guid: 7bf1390ea42d25048950b4d58faf9b3e, type: 3}
+    illust_3: {fileID: 0}
+  - title: 'Taxonomy '
+    description: "The species was\_originally described\_as\_Hypocrea cornu-damae\_by\_Narcisse
+      Th\xE9ophile Patouillard\_in 1895,[3]\_and later transferred to the genus\_Podocrea\_in
+      1905 by\_Pier Andrea Saccardo.[4]\_In 1994 Japanese mycologists\_Tsuguo Hongo\_and
+      Masana Izawa placed the species in the genus\_Podostroma.[1] "
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'Range '
+    description: "The fungus was once thought to be only native to Korea and Japan,
+      but recent discoveries have been made in Java,\_Papua New Guinea\_and some
+      parts of Australia.[2][5][6] "
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: ' Description '
+    description: "The\_conidiophores\_(specialized fungal\_hyphae\_that produce\_conidia)
+      are up to 400\_\u03BCm\_high and about 2\u20134\_\u03BCm wide in the main axial
+      hyphae. The\_phialides\_are arranged in tufts with narrow angles at the top,
+      similar to the branching hyphae found in\_Trichoderma\_species. The conidia
+      are roughly spherical with a truncate base in each spore, pale green in color,
+      and measure 2.5\u20133.5\_\u03BCm in diameter. Their surfaces are almost smooth,
+      but sometimes appearing very faintly roughened with light microscopy.[7] "
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'Toxicity '
+    description: "Several poisonings have been reported in Japan resulting from the
+      consumption of the fungus. In 1999, one of a group of five people from\_Niigata
+      prefecture\_died two days after consuming about 1 gram (0.035\_oz) of fruit
+      body that had been soaked in\_sake. In 2000, an individual from\_Gunma prefecture\_died
+      after eating the fried mushroom. Symptoms associated with consumption in these
+      cases included stomach pains, changes in perception, decrease in the number
+      of\_leukocytes\_and\_thrombocytes, peeling skin on the face, hair loss, and
+      shrinking of the\_cerebellum, resulting in\_speech impediment\_and problems
+      with voluntary movement.[8]\_In another instance, an\_autopsy\_revealed\_multiple
+      organ failure, including acute\_kidney failure, liver\_necrosis\_and\_disseminated
+      intravascular coagulation.[9]\_In one case of poisoning, the patient suffered
+      from\_hemophagocytosis, in addition to severe\_leukocytopenia\_and\_thrombocytopenia,
+      seven days after ingesting the fungus.\_Plasmapheresis\_and administration
+      of\_granulocyte colony-stimulating factor\_were used to treat the blood abnormalities.
+      The authors suggested that these treatments, in addition to the large volume
+      of administered\_intravenous\_saline - 9 liters (2.0\_imp\_gal; 2.4\_U.S.\_gal)
+      over a 12-hour period\u2014were responsible for his successful recovery.[10]\r\nThe
+      poisoning symptoms are similar to those observed previously with animals that
+      had consumed\_trichothecene\_mycotoxins. Japanese researchers detected the
+      presence of the\_macrocyclic\_trichothecenes\_satratoxin H, satratoxin H 12\u2032,13\u2032-diacetate,
+      satratoxin H 12\u2032-acetate, and satratoxin H 13\u2032-acetate. When grown
+      in\_liquid culture\_the fungus additionally produces roridin E and verrucarin
+      J. With the exception of verrucarin J, a 500-microgram dose of any of these
+      compounds, when injected into the abdomen of mice, will result in their death
+      the following day.[8]\_It has been claimed that touching the fungus can cause
+      skin rashes, but this is controversial.[6]\r"
+    illust_0: {fileID: 21300000, guid: 6ed9f594fbfbdd94e8a0bfddc5d8e108, type: 3}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: ' References'
+    description: "1.\_\"Podostroma cornu-damae\u2002(Pat.) Hongo & Izawa 1994\".\_MycoBank.
+      International Mycological Association. Retrieved\_2010-10-20.\r\n2.^\_a\_b\_Smee,
+      Ben (2019-10-02).\_\"Deadly fungus native to Japan and Korea discovered in
+      Australian rainforest\".\_The Guardian.\_ISSN\_0261-3077. Retrieved\_2019-10-02.\r\n3.^\_Patouillard
+      NT. (1895). \"Enumeration des champignons recoltes par les RR. PP. Farges at
+      Soulie, dans le Thibet oriental at le Su-tchuen\".\_Bulletin de la Soci\xE9t\xE9
+      Mycologique de France\_(in French).\_11: 196\u201399.\r\n4.^\_Saccardo PA,
+      Saccardo D (1905). \"Supplementum universale. Pars VI. Hymenomycetae-Laboulbeniomycetae\".\_Sylloge
+      Fungorum\_(in French).\_17: 799.\r\n5.^\_Mounter, Brendan; Thompson, Jesse
+      (2019-10-03).\_\"Deadly Asian fungus, poisonous to touch, found in Far North
+      Queensland rainforest\".\_ABC News. Retrieved\_2019-10-03.\r\n6.^\_a\_b\_Burt,
+      Jemima and Mounter, Brendan (2021-02-19)\_Deadly fungus, poison fire coral,
+      sighted near Cairns, prompting warning for bushwalkers\_ABC News, 2021-02-19.\r\n7.^\_\"Revision
+      of the Hypocreales with cultural observations. V.\_Podostroma giganteum\_Imai,\_P.
+      cornu-damae\_(Pat.) Noedijn and\_Hypocrea pseudogelatinosa\_sp. nov\".\_Reports
+      of the Tottori Mycological Institute (Japan).\_10: 421\u201327. 1973.\r\n8.^\_a\_b\_Saikawa
+      Y, Okamoto H, Inui T, Makabe M, Okuno T, Suda T, Hashimoto K, Nakata M (2001).
+      \"Toxic principles of a poisonous mushroom\_Podostroma cornu-damae\".\_Tetrahedron.\_57\_(39):
+      8277\u201381.\_doi:10.1016/S0040-4020(01)00824-9.\r\n9.^\_Koichi M, Haruo T,
+      Toshihiro Y, Masami O, Sadao N, Koichiro K (2003). \"Case report: food poisoning
+      to death by\_Podostroma cornu-damae, its case history and autopsy findings\".\_Acta
+      Criminologiae et Medicinae Legalis Japonica\_(in Japanese).\_69\_(1): 14\u201320.\r\n10.^\_Suzuki
+      M, Katoh Y, Kumagai H, Saitoh M, Ishikawa H, Itoh H, Shimazu K (2002). \"[Successful
+      treatment in a case of\_Podostroma cornu-damae\_poisoning, a deadly poisonous
+      mushroom]\".\_Chudoku Kenkyu\_(in Japanese).\_15\_(2): 177\u201382.\_PMID\_12108023"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}

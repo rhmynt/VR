@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51f3867395fd1cf43897802bdd56f4fb, type: 3}
+  m_Name: Agaricus bisporus
+  m_EditorClassIdentifier: 
+  itemID: 001
+  itemTag: E
+  icon: {fileID: 21300000, guid: 46b2c1596d7536f4ea72661de5b13f81, type: 3}
+  mushroom3D: {fileID: 7747095351275141429, guid: 3f8b9d9936f00eb4c95ec14e449f2a66,
+    type: 3}
+  clip: {fileID: 8300000, guid: 1f686b82d5d895d41a5a53ec219b7ad3, type: 3}
+  source: {fileID: 0}
+  mushroomName: Agaricus bisporus
+  marketName: Champignon
+  position: {x: 275.6791, y: 74.75842, z: 101.2629}
+  rotation: {x: 18.976, y: -1.983, z: -14.898}
+  encyAll:
+  - title: 'Market name: Champignon'
+    description: "Agaricus bisporus\_is an\_edible\_basidiomycete\_mushroom\_native
+      to\_grasslands\_in\_Europe\_and\_North America. It has two color states while
+      immature \u2013 white and brown \u2013 both of which have various names, with
+      additional names for the mature state.\r\nA. bisporus\_is\_cultivated\_in more
+      than seventy countries[2]\_and is one of the most commonly and widely consumed
+      mushrooms in the world.\r\n"
+    illust_0: {fileID: 21300000, guid: 49e1478293abfdf4e94e90d6cd10e592, type: 3}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Name
+    description: "When immature and\_white, this mushroom may be known as\_common
+      mushroom,\_white mushroom,[3]\_button mushroom,[3]\_cultivated mushroom,\_table
+      mushroom, and\_champignon mushroom\_(or simply\_champignon). When immature
+      and\_brown, it may be known variously as\_Swiss brown mushroom,\_Roman brown
+      mushroom,\_Italian brown mushroom,\_cremini/crimini mushroom,[4][5]\_chestnut
+      mushroom\_(not to be confused with\_Pholiota adiposa), and\_baby bella.[4]\r\nWhen
+      marketed in its mature state, the mushroom is brown with a cap measuring 10\u201315
+      centimetres (4\u20136 inches).[5]\_This form is commonly sold under the names\_portobello
+      mushroom,[5][6]\_portabella mushroom,[7]\_and\_portobella mushroom, but the
+      etymology is disputed.[5][6]"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Taxonomy
+    description: "The common mushroom has a complicated\_taxonomic\_history. It was
+      first described by English botanist\_Mordecai Cubitt Cooke\_in his 1871\_Handbook
+      of British Fungi, as a\_variety\_(var.\_hortensis) of\_Agaricus campestris.[8][9]\_Danish\_mycologist\_Jakob
+      Emanuel Lange\_later reviewed a\_cultivar\_specimen, and dubbed it\_Psalliota
+      hortensis\_var.\_bispora\_in 1926.[10]\_In 1938, it was promoted to\_species\_status
+      and renamed\_Psalliota bispora.[11]\_Emil Imbach (1897\u20131970) imparted
+      the current scientific name of the species,\_Agaricus bisporus, after the genus\_Psalliota\_was
+      renamed to\_Agaricus\_in 1946.[2]\_The\_specific epithet\_bispora\_distinguishes
+      the two-spored\_basidia\_from four-spored\_varieties."
+    illust_0: {fileID: 21300000, guid: 0d955d626578c1b40957973ab5bdbb2c, type: 3}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Description
+    description: "The\_pileus\_or cap of the original wild species is a pale grey-brown
+      in color, with broad, flat scales on a paler background and fading toward the
+      margins. It is first hemispherical in shape before flattening out with maturity,
+      and 5\u201310 centimetres (2\u20134 inches) in diameter. The narrow, crowded\_gills\_are
+      free and initially, pink, then red-brown and finally a dark brown with a whitish
+      edge from the\_cheilocystidia. The cylindrical\_stipe\_is up to\_6\_cm (2+1\u20442\_in)
+      tall by\_1\u20132\_cm (1\u20442\u20133\u20444\_in) wide and bears a thick and
+      narrow\_ring, which may be streaked on the upper side. The firm flesh is white,
+      although stains a pale pinkish-red on bruising.[12][13]\_The\_spore print\_is
+      dark brown. The spores are oval to round and measure approximately 4.5\u20135.5\_\u03BCm
+      \xD7 5\u20137.5\_\u03BCm, and the\_basidia\_usually two-spored, although two-tetrasporic\_varieties
+      have been described from the\_Mojave Desert\_and the\_Mediterranean, with predominantly\_heterothallic\_and\_homothallic\_lifestyles,
+      respectively.[14][15]\r\nThis mushroom is commonly found worldwide in fields
+      and grassy areas following rain, from late spring through to autumn, especially
+      in association with\_manure. In many parts of the world it is widely collected
+      and eaten; however, resemblance to deadly or poisonous lookalikes (see below)
+      should be noted."
+    illust_0: {fileID: 21300000, guid: c726fd2980d332149b7ec759b9699f20, type: 3}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'Lookalike species '
+    description: "The common mushroom could be confused with young specimens of the
+      deadly poisonous\_destroying angel\_(Amanita\_sp.), but the latter may be distinguished
+      by their\_volva\_or cup at the base of the mushroom and pure white gills (as
+      opposed to pinkish or brown of\_A. bisporus). Thus it is always important to
+      clear away debris and examine the base of such similar mushrooms, as well as
+      cutting open young specimens to check the gills. Furthermore, the destroying
+      angel grows in\_mossy\_woods and lives symbiotically with\_spruce.\r\nA more
+      common and less dangerous mistake is to confuse\_A. bisporus\_with\_Agaricus
+      xanthodermus, an inedible mushroom found worldwide in grassy areas.\_A. xanthodermus\_has
+      an odor reminiscent of\_phenol; its flesh turns yellow when bruised. This fungus
+      causes\_nausea\_and vomiting in some people.\r\nThe poisonous European species\_Entoloma
+      sinuatum\_has a passing resemblance as well, but has yellowish gills, turning
+      pink, and it lacks a ring."
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Cultivation history
+    description: "The earliest scientific description of the commercial cultivation
+      of\_A. bisporus\_was made by French botanist\_Joseph Pitton de Tournefort\_in
+      1707.[17]\_French agriculturist\_Olivier de Serres\_noted that transplanting
+      mushroom\_mycelia\_would lead to the propagation of more mushrooms.\r\nOriginally,
+      cultivation was unreliable as mushroom growers would watch for good flushes
+      of mushrooms in fields before digging up the mycelium and replanting them in
+      beds of composted manure or inoculating 'bricks' of compressed litter,\_loam,
+      and manure. Spawn collected this way contained pathogens and crops commonly
+      would be infected or not grow at all.[18]\_In 1893, sterilized, or pure culture,
+      spawn was discovered and produced by the\_Pasteur Institute\_in Paris, for
+      cultivation on composted horse manure.[19]\r\nModern commercial varieties of
+      the common agaricus mushroom originally were light brown in color. The white
+      mushroom was discovered in 1925 growing among a bed of brown mushrooms at the
+      Keystone Mushroom Farm in\_Coatesville,\_Pennsylvania. Louis Ferdinand Lambert,
+      the farm's owner and a mycologist by training, brought the white mushroom back
+      to his laboratory. As with the reception of white bread, it was seen as a more
+      attractive food item and became grown and distributed.[20]\_Similar to the
+      commercial development history of the\_navel orange\_and\_Red Delicious\_apple,
+      cultures were grown from the mutant individuals, and most of the cream-colored
+      store mushrooms marketed today are products of this 1925 chance natural mutation.\r\nA.
+      bisporus\_is now cultivated in at least seventy countries throughout the world.[2]\r\nIn
+      the U.S., the white button form of\_A. bisporus\_alone accounts for about 90%
+      of mushrooms sold.[3]\r"
+    illust_0: {fileID: 21300000, guid: fd2c89b9e4a81014da7c1c8a0e49f92f, type: 3}
+    illust_1: {fileID: 21300000, guid: 9038af68ff98af34c9063df0a3cdd6f7, type: 3}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: Nutritional profile
+    description: "In a 100-gram serving, raw white mushrooms provide 93 kilojoules
+      (22 kilocalories) of\_food energy\_and are an excellent source (> 19% of the\_Daily
+      Value, DV) of the\_B vitamins,\_riboflavin,\_niacin, and\_pantothenic acid\_(table).
+      Fresh mushrooms are also a good source (10\u201319% DV) of the\_dietary mineral\_phosphorus\_(table).\r\nWhile
+      fresh\_A. bisporus\_only contains 0.2 micrograms (8 IU) of\_vitamin D\_as\_ergocalciferol\_(vitamin
+      D2), the ergocalciferol content increases substantially after exposure to\_UV
+      light.[21][22]\r\n"
+    illust_0: {fileID: 21300000, guid: fb8c97b3cee13ff4abeb850efedceca2, type: 3}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'Research '
+    description: "Some mushrooms contain\_hydrazine\_derivatives, including\_agaritine\_and\_gyromitrin,
+      that have been evaluated for\_carcinogenic\_activity.[23]\_Agaritine, a hydrazine,
+      poses no toxicological risk to humans when mushrooms are consumed in typical
+      amounts.[24]"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: References
+    description: "1.^\_Imbach EJ (1946). \"Pilzflora des Kantons Luzern und der angrenzen
+      Innerschweiz\".\_Mitteilungen der naturforschenden Gesellschaft Luzern\_(in
+      German).\_15: 5\u201385.\r\n2.^\_a\_b\_c\_Cappelli A. (1984).\_Fungi Europaei:Agaricus\_(in
+      Italian).\_Saronno, Italy: Giovanna Biella. pp.\_123\u201325.\r\n3.^\_a\_b\_c\_\"White
+      Button\".\_Fresh Mushrooms.\_Mushroom Council. n.d. Retrieved\_29 February2020.\r\n4.^\_a\_b\_\"Crimini\".\_Fresh
+      Mushrooms.\_Mushroom Council. n.d. Retrieved\_29 February\_2020.\r\n5.^\_a\_b\_c\_d\_GourmetSleuth
+      (11 November 2013).\_\"Portobello (Portobella) Mushrooms\".\_Gourmet Sleuth.
+      Retrieved\_9 January\_2019.\r\n6.^\_a\_b\_\"portobello | Definition of portobello
+      by Lexico\".\_Lexico Dictionaries | English. Retrieved\_31 August\_2019.\r\n7.^\_\"Portabella\".\_Fresh
+      Mushrooms.\_Mushroom Council. n.d. Retrieved\_29 February\_2020.\r\n8.^\_Cooke
+      MC (1871).\_Handbook of British Fungi.\_1. London: Macmillan and Co. p.\_138.\r\n9.^\_\"Species
+      Fungorum \u2013 Species synonymy\".\_Index Fungorum. CAB International. Archived
+      from\_the original\_on 10 June 2011. Retrieved\_21 January\_2010.\r\n10.^\_Lange
+      JE (1926). \"Studies in the agarics of Denmark. Part VI.\_Psalliota,\_Russula\".\_Dansk
+      Botanisk Arkiv.\_4\_(12): 1\u201352.\r\n11.^\_Sch\xE4ffer J, M\xF8ller FH (1939).
+      \"Beitrag zur Psalliota Forschung\".\_Annales Mycologici\_(in German).\_36\_(1):
+      64\u201382.\r\n12.^\_Zeitlmayr L (1976).\_Wild Mushrooms:An Illustrated Handbook.
+      Garden City Press, Hertfordshire. pp.\_82\u201383.\_ISBN\_0-584-10324-7.\r\n13.^\_Carluccio
+      A. (2003).\_The Complete Mushroom Book. Quadrille.\_ISBN\_1-84400-040-0.\r\n14.^\_Callac
+      P, Billette C, Imbernon M, Kerrigan RW (1993). \"Morphological, genetic, and
+      interfertility analyses reveal a novel, tetrasporic variety of\_Agaricus bisporus\_from
+      the Sonoran Desert of California\".\_Mycologia.\_85\_(5): 835\u2013851.\_doi:10.2307/3760617.\_JSTOR\_3760617.\r\n15.^\_Callac
+      P, Imbernon M, Guinberteau J, Pirobe L, Granit S, Olivier JM, Theochari I (2000).
+      \"Discovery of a wild Mediterranean population of\_Agaricus bisporus, and its
+      usefulness for breeding work\".\_Mushroom Science.\_15: 245\u2013252.\r\n16.^\_\"Production
+      of mushrooms and truffles in 2019, Crops/Regions/World list/Production Quantity
+      (pick lists)\". UN Food and Agriculture Organization, Corporate Statistical
+      Database (FAOSTAT). 2020. Retrieved\_3 March\_2021.\r\n17.^\_Spencer DM (1985).
+      \"The mushroom\u2013its history and importance\". In Flegg PB, Spencer DM,
+      Wood DA (eds.).\_The Biology and Technology of the Cultivated Mushroom.\_New
+      York:\_John Wiley and Sons. pp.\_1\u20138.\_ISBN\_0-471-90435-X.\r\n18.^\_Genders
+      1969, p.\_19\r\n19.^\_Genders 1969, p.\_18\r\n20.^\_Genders 1969, p.\_121\r\n21.^\_\"Mushrooms
+      and vitamin D\".\_Los Angeles Times. Retrieved\_23 August\_2003.\r\n22.^\_Koyyalamudi
+      SR, Jeong SC, Song CH, Cho KY, Pang G (April 2009). \"Vitamin D2 formation
+      and bioavailability from\_Agaricus bisporus\_button mushrooms treated with
+      ultraviolet irradiation\".\_Journal of Agricultural and Food Chemistry.\_57\_(8):
+      3351\u20135.\_doi:10.1021/jf803908q.\_PMID\_19281276.\r\n23.^\_Hashida C, Hayashi
+      K, Jie L, Haga S, Sakurai M, Shimizu H (June 1990). \"[Quantities of agaritine
+      in mushrooms (Agaricus bisporus) and the carcinogenicity of mushroom methanol
+      extracts on the mouse bladder epithelium]\".\_Nippon Koshu Eisei Zasshi\_(in
+      Japanese).\_37\_(6): 400\u20135.\_PMID\_2132000.\r\n24.^\_Roupasa P, Keogh
+      J, Noakes M, Margettsa C, Taylor P (April 2010). \"Mushrooms and agaritine:
+      A mini-review\".\_Journal of Functional Foods.\_2\_(2): 91\u20138.\_doi:10.1016/j.jff.2010.04.003.\r\n"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}

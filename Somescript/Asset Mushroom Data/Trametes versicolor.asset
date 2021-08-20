@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51f3867395fd1cf43897802bdd56f4fb, type: 3}
+  m_Name: Trametes versicolor
+  m_EditorClassIdentifier: 
+  itemID: 010
+  itemTag: M
+  icon: {fileID: 21300000, guid: df9a226298c0c834988aa91b7ed31dca, type: 3}
+  mushroom3D: {fileID: 7825910358205631904, guid: 6bcf7bd0a36353342bd037b59230a560,
+    type: 3}
+  clip: {fileID: 8300000, guid: 2114b789f0ffc1948928b10289236ab3, type: 3}
+  source: {fileID: 0}
+  mushroomName: Trametes versicolor
+  marketName: Turkey tail
+  position: {x: 129.802, y: 64.3, z: 404.589}
+  rotation: {x: 0, y: -116.906, z: 0}
+  encyAll:
+  - title: 'Known as: Turkey tail'
+    description: "Trametes versicolor\_\u2013 also known as\_Coriolus versicolor\_and\_Polyporus
+      versicolor\_\u2013 is a common\_polypore\_mushroom\_found throughout the world.
+      Meaning 'of several colors',\_versicolor\_reliably describes this fungus that
+      displays different colors. For example, because its shape and multiple colors
+      are similar to those of a\_wild turkey,\_T. versicolor\_is commonly called\_turkey
+      tail. A similar looking mushroom, commonly called\_false turkey tail, which
+      is from a different order, may sometimes be confused with the turkey tail mushroom
+      due to appearance. Another lookalike is the\_multicolor gill polypore.[1]"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'Description and ecology '
+    description: "The top surface of the cap shows typical concentric zones of different
+      colors, and the margin is always the lightest.[1]\_The flesh is 1\u20133\_mm
+      thick and has leathery texture. Older specimens, such as the one pictured,
+      can have zones with green algae growing on them, thus appearing green. It commonly
+      grows in tiled layers on in groups or rows on logs and stumps of deciduous
+      trees, and is very common in North America.[1]\_The mushroom is stalkless and
+      the cap is rust-brown or darker brown, sometimes with blackish zones. The cap
+      is flat, up to 8\_\xD7\_5 x 0.5\u20131\_cm in area. It is often triangular
+      or round, with zones of fine hairs. The pore surface is whitish to light brown,
+      with pores round and with age twisted and labyrinthine. 3\u20138 pores per
+      millimeter.\r\nIt may be eaten by\_caterpillars\_of the\_fungus moth\_Nemaxera
+      betulinella\_and by\_maggots\_of the\_Platypezid\_fly\_Polyporivora picta.[2]\_and
+      the fungus gnat\_Mycetophila luctuosa,[3]\_but is considered inedible to humans.[4]"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'Chemistry '
+    description: "Trametes versicolor\_contains\_polysaccharides\_under\_basic research,
+      including the protein-bound PSP and \u03B2-1,3 and \u03B2-1,4\_glucans. The
+      lipid fraction contains the lanostane-type tetracyclic triterpenoid sterol
+      ergosta-7,22,dien-3\u03B2-ol as well as fungisterol and \u03B2-sitosterol.[5][6] "
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'Uses and research '
+    description: "Human medicine\r\nPolysaccharide-K\_(PSK or\_krestin), extracted
+      from\_T. versicolor, is considered safe for use as an\_adjunct therapy\_for
+      cancer treatment in Japan where it is known as\_kawaratake\_(roof tile mushroom)
+      and approved for clinical use.[7][8]\_As a\_glycoprotein\_mixture, PSK has
+      been studied in\_clinical research\_in people with various\_cancers\_and\_immune
+      deficiencies, but its efficacy remains inconclusive, as of 2021.[7][9][10][11]\r\nTraditional
+      medicine and dietary supplement\r\nTrametes versicolor\_is used in\_traditional
+      Chinese medicine\_or other\_herbalism\_practices.[7][12]\_In some countries,
+      PSK is sold as a\_dietary supplement.[8][11]\_Use of PSK may cause\_adverse
+      effects, such as\_diarrhea, darkened\_feces, or darkened\_finger nails.[9]\r\nFDA
+      warnings\r\nIn 2020, the United States\_Food and Drug Administration\_(FDA)
+      issued\_warning letters\_to two manufacturers for advertising\_misbranded\_T.
+      versicolor\_PSK supplements as anti-cancer or immune therapy\_drugs, stating
+      such products \"are not\_generally recognized as safe\_and effective for the
+      above referenced uses and, therefore, these products are \"new drugs\" under
+      section 201(p) of the FD&C Act, 21 U.S.C. 321(p). New drugs may not be legally
+      introduced or delivered for introduction into interstate commerce without prior
+      approval from the FDA.\"[13][14]\r"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'Horticulture '
+    description: 'Some may be concerned about the mushroom damaging or killing trees
+      and wish to remove them. Removal of the mushroom and pruning may help affected
+      trees survive.[15] '
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
+  - title: 'References '
+    description: "1.\_\"Turkey Tail\".\_MDC Discover Nature. Retrieved\_14 February\_2021.\r\n2.^\_Chandler,
+      Peter J. (2001),\_The Flat-footed flies (Opetiidae and Platypezidae) of Europe,\_Fauna
+      Entomologica Scandinavica,\_36, Leiden: Brill, pp.\_1\u2013278,\_ISBN\_90-04-12023-8\r\n3.^\_Jakovlev,
+      Jevgeni (2011),\_\"Fungus gnats (Diptera: Sciaroidea) associated with dead
+      wood and wood growing fungi: New rearing data from Finland and Russian Karelia
+      and general analysis of known larval microhabitats in Europe\",\_Entomologica
+      Fennica,\_22\_(3),\_doi:10.33338/ef.4693\r\n4.^\_Meuninck, Jim (2017).\_Foraging
+      Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms.\_Falcon
+      Guides. p.\_51.\_ISBN\_978-1-4930-2669-2.\r\n5.^\_Yokoyama, A (1975). \"Distribution
+      of tetracyclic triterpenoids of lanostane group and sterols in higher fungi
+      especially of the polyporacea and related families\".\_Phytochemistry.\_14\_(2):
+      487\u2013497.\_doi:10.1016/0031-9422(75)85115-6.\r\n6.^\_Endo, S (1981). \"Lipids
+      of five species of polyporacea\".\_Tokyo Gakugei.\_16.\r\n7.^\_a\_b\_c\_\"Turkey
+      tail and polysaccharide-K. In: Medicinal Mushrooms\". National Cancer Institute,
+      US National Institutes of Health. 5 October 2020. Retrieved\_10 February\_2021.\r\n8.^\_a\_b\_Huaiqian
+      Dou; others (2019).\_Glycans and glycosaminoglycans as clinical biomarkers
+      and therapeutics - Part B. In: Progress in Molecular Biology and Translational
+      Science, Trametes versicolor - an overview\u2002: Ed.: Lijuan Zhang.\_163.
+      Elsevier Inc. pp.\_1\u2013533. Retrieved\_10 February\_2021.\r\n9.^\_a\_b\_\"Turkey
+      tail\". Drugs.com. 21 October 2020. Retrieved\_10 February\_2021.\r\n10.^\_\"Coriolus
+      versicolor\". Memorial Sloan Kettering Cancer Center, New York, NY. 2021. Retrieved\_8
+      February\_2021.\r\n11.^\_a\_b\_Habtemariam, S (25 May 2020).\_\"Trametes versicolor\u2002(Synn.\u2002Coriolus
+      versicolor). Polysaccharides in cancer therapy: targets and efficacy\".\_Biomedicines.\_8\_(5):
+      135.\_doi:10.3390/biomedicines8050135.\_ISSN\_2227-9059.\_PMC\_7277906.\_PMID\_32466253.\r\n12.^\_Meuninck,
+      Jim (2017).\_Foraging Mushrooms Oregon: Finding, Identifying, and Preparing
+      Edible Wild Mushrooms.\_Falcon Guides. p.\_52.\_ISBN\_978-1-4930-2669-2.\r\n13.^\_Steven
+      B Barber (3 November 2020).\_\"Warning letter 609440: Half Hill Farm Inc\".
+      US Food and Drug Administration. Retrieved\_10 February\_2021.\r\n14.^\_Ronald
+      M Pace (1 December 2020).\_\"Warning letter 610361: Mushroom Revival, Inc\".
+      US Food and Drug Administration. Retrieved\_10 February\_2021.\r\n15.^\_\"How
+      to Get Rid of Turkey Tail Mushroom\".\_Home Guides | SF Gate. Retrieved\_16
+      February\_2021.\r"
+    illust_0: {fileID: 0}
+    illust_1: {fileID: 0}
+    illust_2: {fileID: 0}
+    illust_3: {fileID: 0}
